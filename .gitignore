@@ -31,3 +31,3254 @@
 # Debug files
 *.dSYM/
 *.su
+#EXTM3U
+#EXTINF:0,#EXTINF:-1,===VETON IPTV EUROPA LISTE===
+#EXTM3U
+#EXTINF:0,#EXTINF:-1,Das Erste HD
+http://192.168.178.131:8001/1:0:19:283D:3FB:1:C00000:0:0:0:
+#EXTINF:0,#EXTINF:-1,ZDF HD
+http://192.168.178.131:8001/1:0:19:2B66:3F3:1:C00000:0:0:0:
+#EXTINF:0,#EXTINF:-1,RTL Austria
+http://192.168.178.131:8001/1:0:1:7080:443:1:C00000:0:0:0:
+#EXTINF:0,#EXTINF:-1,RTL CH
+http://192.168.178.131:8001/1:0:1:7099:443:1:C00000:0:0:0:
+#EXTINF:0,#EXTINF:-1,VOX Austria
+http://192.168.178.131:8001/1:0:1:7085:443:1:C00000:0:0:0:
+#EXTINF:0,#EXTINF:-1,RTL2 Austria
+http://192.168.178.131:8001/1:0:1:708A:443:1:C00000:0:0:0:
+#EXTINF:0,#EXTINF:-1,RTL 2 CH
+http://192.168.178.131:8001/1:0:1:3070:3FF:1:C00000:0:0:0:
+#EXTINF:0,#EXTINF:-1,Super RTL A
+http://192.168.178.131:8001/1:0:1:708F:443:1:C00000:0:0:0:
+#EXTINF:0,#EXTINF:-1,SAT.1 Austria
+http://192.168.178.131:8001/1:0:1:4E25:43A:1:C00000:0:0:0:
+#EXTINF:0,#EXTINF:-1,SAT.1 CH
+http://192.168.178.131:8001/1:0:1:4E26:43A:1:C00000:0:0:0:
+#EXTINF:0,#EXTINF:-1,ProSieben Austria
+http://192.168.178.131:8001/1:0:1:4E22:43A:1:C00000:0:0:0:
+#EXTINF:0,#EXTINF:-1,ProSieben Schweiz
+http://192.168.178.131:8001/1:0:1:4E21:43A:1:C00000:0:0:0:
+#EXTINF:0,#EXTINF:-1,Kabel 1 Austria
+http://192.168.178.131:8001/1:0:1:4E24:43A:1:C00000:0:0:0:
+#EXTINF:0,#EXTINF:-1,Kabel 1 Schweiz
+http://192.168.178.131:8001/1:0:1:4E23:43A:1:C00000:0:0:0:
+#EXTINF:0,#EXTINF:-1,RTL Regional NRW
+http://192.168.178.131:8001/1:0:1:2EE4:441:1:C00000:0:0:0:
+#EXTINF:0,#EXTINF:-1,RTL HB NDS
+http://192.168.178.131:8001/1:0:1:2EE5:441:1:C00000:0:0:0:
+#EXTINF:0,#EXTINF:-1,SAT.1 HH/SH
+http://192.168.178.131:8001/1:0:1:4E28:43A:1:C00000:0:0:0:
+#EXTINF:0,#EXTINF:-1,SAT.1 NS/Bremen
+http://192.168.178.131:8001/1:0:1:4E29:43A:1:C00000:0:0:0:
+#EXTINF:0,#EXTINF:-1,SAT.1 RhlPf/Hessen
+http://192.168.178.131:8001/1:0:1:4E2A:43A:1:C00000:0:0:0:
+#EXTINF:0,#EXTINF:-1,SAT.1 Bayern
+http://192.168.178.131:8001/1:0:1:4463:453:1:C00000:0:0:0:
+#EXTINF:0,#EXTINF:-1,SAT.1 NRW
+http://192.168.178.131:8001/1:0:1:4464:453:1:C00000:0:0:0:
+#EXTINF:0,#EXTINF:-1,3sat HD
+http://192.168.178.131:8001/1:0:19:2B8E:3F2:1:C00000:0:0:0:
+#EXTINF:0,#EXTINF:-1,RTL Television
+http://192.168.178.131:8001/1:0:1:2EE3:441:1:C00000:0:0:0:
+#EXTINF:0,#EXTINF:-1,SAT.1
+http://192.168.178.131:8001/1:0:1:445C:453:1:C00000:0:0:0:
+#EXTINF:0,#EXTINF:-1,ProSieben
+http://192.168.178.131:8001/1:0:1:445D:453:1:C00000:0:0:0:
+#EXTINF:0,#EXTINF:-1,RTL2
+http://192.168.178.131:8001/1:0:1:2EF4:441:1:C00000:0:0:0:
+#EXTINF:0,#EXTINF:-1,Super RTL
+http://192.168.178.131:8001/1:0:1:2F08:441:1:C00000:0:0:0:
+#EXTINF:0,#EXTINF:-1,VOX
+http://192.168.178.131:8001/1:0:1:2F1C:441:1:C00000:0:0:0:
+#EXTINF:0,#EXTINF:-1,kabel eins
+http://192.168.178.131:8001/1:0:1:445E:453:1:C00000:0:0:0:
+#EXTINF:0,#EXTINF:-1,Nickelodeon
+http://192.168.178.131:8001/1:0:1:7008:436:1:C00000:0:0:0:
+#EXTINF:0,#EXTINF:-1,Anixe HD
+http://192.168.178.131:8001/1:0:19:526C:41D:1:C00000:0:0:0:
+#EXTINF:0,#EXTINF:-1,KI.KA HD
+http://192.168.178.131:8001/1:0:19:2B98:3F2:1:C00000:0:0:0:
+#EXTINF:0,#EXTINF:-1,arte HD
+http://192.168.178.131:8001/1:0:19:283E:3FB:1:C00000:0:0:0:
+#EXTINF:0,#EXTINF:-1,N24
+http://192.168.178.131:8001/1:0:1:445F:453:1:C00000:0:0:0:
+#EXTINF:0,#EXTINF:-1,n-tv
+http://192.168.178.131:8001/1:0:1:2F3A:441:1:C00000:0:0:0:
+#EXTINF:0,#EXTINF:-1,Servus TV HD Deutschland
+http://192.168.178.131:8001/1:0:19:1332:3EF:1:C00000:0:0:0:
+#EXTINF:0,#EXTINF:-1,EinsPlus HD
+http://192.168.178.131:8001/1:0:19:2889:40F:1:C00000:0:0:0:
+#EXTINF:0,#EXTINF:-1,tagesschau24 HD
+http://192.168.178.131:8001/1:0:19:2887:40F:1:C00000:0:0:0:
+#EXTINF:0,#EXTINF:-1,ONE HD
+http://192.168.178.131:8001/1:0:19:2888:40F:1:C00000:0:0:0:
+#EXTINF:0,#EXTINF:-1,ZDFinfo HD
+http://192.168.178.131:8001/1:0:19:2BA2:3F2:1:C00000:0:0:0:
+#EXTINF:0,#EXTINF:-1,zdf_neo HD
+http://192.168.178.131:8001/1:0:19:2B7A:3F3:1:C00000:0:0:0:
+#EXTINF:0,#EXTINF:-1,zdf.kultur HD
+http://192.168.178.131:8001/1:0:19:2B84:3F3:1:C00000:0:0:0:
+#EXTINF:0,#EXTINF:-1,PHOENIX HD
+http://192.168.178.131:8001/1:0:19:285B:401:1:C00000:0:0:0:
+#EXTINF:0,#EXTINF:-1,QVC HD
+http://192.168.178.131:8001/1:0:19:526F:41D:1:C00000:0:0:0:
+#EXTINF:0,#EXTINF:-1,BR Süd HD
+http://192.168.178.131:8001/1:0:19:2855:401:1:C00000:0:0:0:
+#EXTINF:0,#EXTINF:-1,hr-fernsehen HD
+http://192.168.178.131:8001/1:0:19:2873:425:1:C00000:0:0:0:
+#EXTINF:0,#EXTINF:-1,MDR Sachsen HD
+http://192.168.178.131:8001/1:0:19:2870:425:1:C00000:0:0:0:
+#EXTINF:0,#EXTINF:-1,NDR FS NDS HD
+http://192.168.178.131:8001/1:0:19:2857:401:1:C00000:0:0:0:
+#EXTINF:0,#EXTINF:-1,rbb Berlin HD
+http://192.168.178.131:8001/1:0:19:286F:425:1:C00000:0:0:0:
+#EXTINF:0,#EXTINF:-1,HSE24 HD
+http://192.168.178.131:8001/1:0:19:5270:41D:1:C00000:0:0:0:
+#EXTINF:0,#EXTINF:-1,SWR BW HD
+http://192.168.178.131:8001/1:0:19:283F:3FB:1:C00000:0:0:0:
+#EXTINF:0,#EXTINF:-1,QVC PLUS HD
+http://192.168.178.131:8001/1:0:19:1580:41F:1:C00000:0:0:0:
+#EXTINF:0,#EXTINF:-1,WDR HD Köln
+http://192.168.178.131:8001/1:0:19:6EA5:4B1:1:C00000:0:0:0:
+#EXTINF:0,#EXTINF:-1,HSE24 Extra HD
+http://192.168.178.131:8001/1:0:19:157D:41F:1:C00000:0:0:0:
+#EXTINF:0,#EXTINF:-1,ARD-alpha
+http://192.168.178.131:8001/1:0:1:6F47:445:1:C00000:0:0:0:
+#EXTINF:0,#EXTINF:-1,QVC BEAUTY & STYLE HD
+http://192.168.178.131:8001/1:0:19:2779:409:1:C00000:0:0:0:
+#EXTINF:0,#EXTINF:-1,HSE24 TREND
+http://192.168.178.131:8001/1:0:1:4D:21:85:C00000:0:0:0:
+#EXTINF:0,#EXTINF:-1,EuroNews
+http://192.168.178.131:8001/1:0:1:79F4:443:1:C00000:0:0:0:
+#EXTINF:0,#EXTINF:-1,SPORT1
+http://192.168.178.131:8001/1:0:1:384:21:85:C00000:0:0:0:
+#EXTINF:0,#EXTINF:-1,Eurosport
+http://192.168.178.131:8001/1:0:1:79E0:443:1:C00000:0:0:0:
+#EXTINF:0,#EXTINF:-1,TELE 5
+http://192.168.178.131:8001/1:0:1:33:21:85:C00000:0:0:0:
+#EXTINF:0,#EXTINF:-1,Deutsches Musik Fernsehen
+http://192.168.178.131:8001/1:0:1:313C:459:1:C00000:0:0:0:
+#EXTINF:0,#EXTINF:-1,H2D Handshake 2 Deutschland
+http://192.168.178.131:8001/1:0:1:125E:3F7:1:C00000:0:0:0:
+#EXTINF:0,#EXTINF:-1,a.tv
+http://192.168.178.131:8001/1:0:1:11F8:3FD:1:C00000:0:0:0:
+#EXTINF:0,#EXTINF:-1,münchen.tv
+http://192.168.178.131:8001/1:0:1:11FC:3FD:1:C00000:0:0:0:
+#EXTINF:0,#EXTINF:-1,Franken Fernsehen
+http://192.168.178.131:8001/1:0:1:11F9:3FD:1:C00000:0:0:0:
+#EXTINF:0,#EXTINF:-1,Mainfranken
+http://192.168.178.131:8001/1:0:1:11FE:3FD:1:C00000:0:0:0:
+#EXTINF:0,#EXTINF:-1,Niederbayern
+http://192.168.178.131:8001/1:0:1:1201:3FD:1:C00000:0:0:0:
+#EXTINF:0,#EXTINF:-1,TVA-OTV
+http://192.168.178.131:8001/1:0:1:1200:3FD:1:C00000:0:0:0:
+#EXTINF:0,#EXTINF:-1,TV Oberfranken
+http://192.168.178.131:8001/1:0:1:11FF:3FD:1:C00000:0:0:0:
+#EXTINF:0,#EXTINF:-1,rhein main tv
+http://192.168.178.131:8001/1:0:1:3146:459:1:C00000:0:0:0:
+#EXTINF:0,#EXTINF:-1,REGIO TV
+http://192.168.178.131:8001/1:0:1:2F:21:85:C00000:0:0:0:
+#EXTINF:0,#EXTINF:-1,intv
+http://192.168.178.131:8001/1:0:1:11FA:3FD:1:C00000:0:0:0:
+#EXTINF:0,#EXTINF:-1,Ulm-Allgäu
+http://192.168.178.131:8001/1:0:1:11FB:3FD:1:C00000:0:0:0:
+#EXTINF:0,#EXTINF:-1,rfo Regional Oberbayern
+http://192.168.178.131:8001/1:0:1:11FD:3FD:1:C00000:0:0:0:
+#EXTINF:0,#EXTINF:-1,BB-MV Lokal-TV
+http://192.168.178.131:8001/1:0:1:46:7:85:C00000:0:0:0:
+#EXTINF:0,#EXTINF:-1,LT1-OOE
+http://192.168.178.131:8001/1:0:1:3330:45B:1:C00000:0:0:0:
+#EXTINF:0,#EXTINF:-1,L-TV/TVM
+http://192.168.178.131:8001/1:0:1:3339:45B:1:C00000:0:0:0:
+#EXTINF:0,#EXTINF:-1,ORF 2 E
+http://192.168.178.131:8001/1:0:1:32D6:45D:1:C00000:0:0:0:
+#EXTINF:0,#EXTINF:-1,Schau TV
+http://192.168.178.131:8001/1:0:1:33A9:3EB:1:C00000:0:0:0:
+#EXTINF:0,#EXTINF:-1,BTV
+http://192.168.178.131:8001/1:0:1:3355:45B:1:C00000:0:0:0:
+#EXTINF:0,#EXTINF:-1,R9 Oesterreich HD
+http://192.168.178.131:8001/1:0:19:3400:3ED:1:C00000:0:0:0:
+#EXTINF:0,#EXTINF:-1,Lokal TV Portal
+http://192.168.178.131:8001/1:0:1:1252:3FD:1:C00000:0:0:0:
+#EXTINF:0,#EXTINF:-1,Die Neue Zeit TV
+http://192.168.178.131:8001/1:0:1:1269:3F7:1:C00000:0:0:0:
+#EXTINF:0,#EXTINF:-1,EWTN katholisches TV
+http://192.168.178.131:8001/1:0:1:3E:5:85:C00000:0:0:0:
+#EXTINF:0,#EXTINF:-1,Hope Channel HD
+http://192.168.178.131:8001/1:0:19:33AB:3EB:1:C00000:0:0:0:
+#EXTINF:0,#EXTINF:-1,K-TV
+http://192.168.178.131:8001/1:0:1:3139:459:1:C00000:0:0:0:
+#EXTINF:0,#EXTINF:-1,SOPHIA TV
+http://192.168.178.131:8001/1:0:16:5278:41D:1:C00000:0:0:0:
+#EXTINF:0,#EXTINF:-1,SOPHIA TV
+http://192.168.178.131:8001/1:0:1:1268:3F7:1:C00000:0:0:0:
+#EXTINF:0,#EXTINF:-1,1-2-3.tv HD
+http://192.168.178.131:8001/1:0:19:157E:41F:1:C00000:0:0:0:
+#EXTINF:0,#EXTINF:-1,Aristo.TV
+http://192.168.178.131:8001/1:0:16:33FF:3ED:1:C00000:0:0:0:
+#EXTINF:0,#EXTINF:-1,Beauty TV
+http://192.168.178.131:8001/1:0:1:36:7:85:C00000:0:0:0:
+#EXTINF:0,#EXTINF:-1,Channel 21 HD
+http://192.168.178.131:8001/1:0:19:2778:409:1:C00000:0:0:0:
+#EXTINF:0,#EXTINF:-1,e8 television
+http://192.168.178.131:8001/1:0:1:381:21:85:C00000:0:0:0:
+#EXTINF:0,#EXTINF:-1,Genius Plus TV
+http://192.168.178.131:8001/1:0:16:5279:41D:1:C00000:0:0:0:
+#EXTINF:0,#EXTINF:-1,JML Shop
+http://192.168.178.131:8001/1:0:1:202:7:85:C00000:0:0:0:
+#EXTINF:0,#EXTINF:-1,Juwelo HD
+http://192.168.178.131:8001/1:0:19:151B:455:1:C00000:0:0:0:
+#EXTINF:0,#EXTINF:-1,MediaShop
+http://192.168.178.131:8001/1:0:1:307:7:85:C00000:0:0:0:
+#EXTINF:0,#EXTINF:-1,MediaShop-Neuheiten
+http://192.168.178.131:8001/1:0:1:382:21:85:C00000:0:0:0:
+#EXTINF:0,#EXTINF:-1,mediaspar HD
+http://192.168.178.131:8001/1:0:19:2776:409:1:C00000:0:0:0:
+#EXTINF:0,#EXTINF:-1,Mein Musik TV
+http://192.168.178.131:8001/1:0:1:32D7:45D:1:C00000:0:0:0:
+#EXTINF:0,#EXTINF:-1,meinTVshop
+http://192.168.178.131:8001/1:0:1:383:21:85:C00000:0:0:0:
+#EXTINF:0,#EXTINF:-1,MELODIE TV
+http://192.168.178.131:8001/1:0:1:33AD:3EB:1:C00000:0:0:0:
+#EXTINF:0,#EXTINF:-1,Paradise Lost
+http://192.168.178.131:8001/1:0:1:4A:5:85:C00000:0:0:0:
+#EXTINF:0,#EXTINF:-1,pearl.tv
+http://192.168.178.131:8001/1:0:1:2FD:7:85:C00000:0:0:0:
+#EXTINF:0,#EXTINF:-1,pearl.tv HD
+http://192.168.178.131:8001/1:0:19:151C:455:1:C00000:0:0:0:
+#EXTINF:0,#EXTINF:-1,Shop24Direct
+http://192.168.178.131:8001/1:0:1:3159:459:1:C00000:0:0:0:
+#EXTINF:0,#EXTINF:-1,sonnenklar.TV HD
+http://192.168.178.131:8001/1:0:19:1518:455:1:C00000:0:0:0:
+#EXTINF:0,#EXTINF:-1,Sparhandy TV
+http://192.168.178.131:8001/1:0:1:293:5:85:C00000:0:0:0:
+#EXTINF:0,#EXTINF:-1,Starparadies AT
+http://192.168.178.131:8001/1:0:1:33AA:3EB:1:C00000:0:0:0:
+#EXTINF:0,#EXTINF:-1,TV Shop
+http://192.168.178.131:8001/1:0:16:1524:455:1:C00000:0:0:0:
+#EXTINF:0,#EXTINF:-1,Volksmusik
+http://192.168.178.131:8001/1:0:1:33A6:3EB:1:C00000:0:0:0:
+#EXTINF:0,#EXTINF:-1,Folx TV
+http://192.168.178.131:8001/1:0:1:32DA:45D:1:C00000:0:0:0:
+#EXTINF:0,#EXTINF:-1,AstroTV
+http://192.168.178.131:8001/1:0:1:295:21:85:C00000:0:0:0:
+#EXTINF:0,#EXTINF:-1,iptv.nbrz.ru
+http://iptv.nbrz.ru
+#EXTM3U
+#EXTINF:0,
+#EXTINF:-1,===KANALE GERMANI SKY ===
+#EXTINF:0,#EXTM3U
+#
+#EXTINF:0,#EXTINF:-1,DE-SKY SELECT 1
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1205.ts
+#EXTINF:0,#EXTINF:-1,DE-SKY SELECT 2
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1203.ts
+#EXTINF:0,#EXTINF:-1,DE-SKY SELECT 3
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1202.ts
+#EXTINF:0,#EXTINF:-1,DE-SKY SELECT 4
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1201.ts
+#EXTINF:0,#EXTINF:-1,DE-SKY SELECT 5
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1200.ts
+#EXTINF:0,#EXTINF:-1,DE-SKY SELECT 6
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1199.ts
+#EXTINF:0,#EXTINF:-1,DE-SKY SELECT 7
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1198.ts
+#EXTINF:0,#EXTINF:-1,DE-SKY SELECT 8
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1197.ts
+#EXTINF:0,#EXTINF:-1,DE-SKY SELECT 10
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1204.ts
+#EXTINF:0,#EXTINF:-1,SKYDE
+http://163.172.217.53:8000/live/5grandiptv915/67863345/466.ts
+#EXTINF:0,#EXTINF:-1,SKYDE
+http://163.172.217.53:8000/live/5grandiptv915/67863345/465.ts
+#EXTINF:0,#EXTINF:-1,SKYDE
+http://163.172.217.53:8000/live/5grandiptv915/67863345/464.ts
+#EXTINF:0,#EXTINF:-1,SKYDE
+http://163.172.217.53:8000/live/5grandiptv915/67863345/463.ts
+#EXTINF:0,#EXTINF:-1,SKYDE
+http://163.172.217.53:8000/live/5grandiptv915/67863345/462.ts
+#EXTINF:0,#EXTINF:-1,SKYDE
+http://163.172.217.53:8000/live/5grandiptv915/67863345/461.ts
+#EXTINF:0,#EXTINF:-1,SKYDE
+http://163.172.217.53:8000/live/5grandiptv915/67863345/460.ts
+#EXTINF:0,#EXTINF:-1,SKYDE
+http://163.172.217.53:8000/live/5grandiptv915/67863345/459.ts
+#EXTINF:0,#EXTINF:-1,SKYDE
+http://163.172.217.53:8000/live/5grandiptv915/67863345/458.ts
+#EXTINF:0,#EXTINF:-1,SKYDE
+http://163.172.217.53:8000/live/5grandiptv915/67863345/468.ts
+#EXTINF:0,#EXTINF:-1,Sky de
+http://163.172.217.53:8000/live/5grandiptv915/67863345/355.ts
+#EXTINF:0,#EXTINF:-1,Sky de
+http://163.172.217.53:8000/live/5grandiptv915/67863345/363.ts
+#EXTINF:0,#EXTINF:-1,Sky de
+http://163.172.217.53:8000/live/5grandiptv915/67863345/357.ts
+#EXTINF:0,#EXTINF:-1,Sky de
+http://163.172.217.53:8000/live/5grandiptv915/67863345/382.ts
+#EXTINF:0,#EXTINF:-1,Sky de
+http://163.172.217.53:8000/live/5grandiptv915/67863345/360.ts
+#EXTINF:0,#EXTINF:-1,Sky de
+http://163.172.217.53:8000/live/5grandiptv915/67863345/359.ts
+#EXTINF:0,#EXTINF:-1,Sky de
+http://163.172.217.53:8000/live/5grandiptv915/67863345/379.ts
+#EXTINF:0,#EXTINF:-1,Sky de
+http://163.172.217.53:8000/live/5grandiptv915/67863345/414.ts
+#EXTINF:0,#EXTINF:-1,Sky de
+http://163.172.217.53:8000/live/5grandiptv915/67863345/413.ts
+#EXTINF:0,#EXTINF:-1,Sky de
+http://163.172.217.53:8000/live/5grandiptv915/67863345/412.ts
+#EXTINF:0,#EXTINF:-1,Sky de
+http://163.172.217.53:8000/live/5grandiptv915/67863345/411.ts
+#EXTINF:0,#EXTINF:-1,Sky de
+http://163.172.217.53:8000/live/5grandiptv915/67863345/410.ts
+#EXTINF:0,#EXTINF:-1,Sky de
+http://163.172.217.53:8000/live/5grandiptv915/67863345/409.ts
+#EXTINF:0,#EXTINF:-1,Sky de
+http://163.172.217.53:8000/live/5grandiptv915/67863345/408.ts
+#EXTINF:0,#EXTINF:-1,Sky de
+http://163.172.217.53:8000/live/5grandiptv915/67863345/404.ts
+#EXTINF:0,#EXTINF:-1,Sky de
+http://163.172.217.53:8000/live/5grandiptv915/67863345/403.ts
+#EXTINF:0,#EXTINF:-1,Sky de
+http://163.172.217.53:8000/live/5grandiptv915/67863345/406.ts
+#EXTINF:0,#EXTINF:-1,Sky de
+http://163.172.217.53:8000/live/5grandiptv915/67863345/405.ts
+#EXTINF:0,#EXTINF:-1,Sky de
+http://163.172.217.53:8000/live/5grandiptv915/67863345/391.ts
+#EXTINF:0,#EXTINF:-1,Sky de
+http://163.172.217.53:8000/live/5grandiptv915/67863345/393.ts
+#EXTINF:0,#EXTINF:-1,Sky de
+http://163.172.217.53:8000/live/5grandiptv915/67863345/389.ts
+#EXTINF:0,#EXTINF:-1,Sky de
+http://163.172.217.53:8000/live/5grandiptv915/67863345/388.ts
+#EXTINF:0,#EXTINF:-1,Sky de
+http://163.172.217.53:8000/live/5grandiptv915/67863345/387.ts
+#EXTINF:0,#EXTINF:-1,Sky de
+http://163.172.217.53:8000/live/5grandiptv915/67863345/384.ts
+#EXTINF:0,#EXTINF:-1,Sky de
+http://163.172.217.53:8000/live/5grandiptv915/67863345/386.ts
+#EXTINF:0,#EXTINF:-1,Sky de
+http://163.172.217.53:8000/live/5grandiptv915/67863345/385.ts
+#EXTINF:0,#EXTINF:-1,Sky de
+http://163.172.217.53:8000/live/5grandiptv915/67863345/394.ts
+#EXTINF:0,#EXTINF:-1,Sky de
+http://163.172.217.53:8000/live/5grandiptv915/67863345/369.ts
+#EXTINF:0,#EXTINF:-1,Sky de
+http://163.172.217.53:8000/live/5grandiptv915/67863345/390.ts
+#EXTINF:0,#EXTINF:-1,Sky de
+http://163.172.217.53:8000/live/5grandiptv915/67863345/365.ts
+#EXTINF:0,#EXTINF:-1,Sky de
+http://163.172.217.53:8000/live/5grandiptv915/67863345/380.ts
+#EXTINF:0,#EXTINF:-1,Sky de
+http://163.172.217.53:8000/live/5grandiptv915/67863345/367.ts
+#EXTINF:0,#EXTINF:-1,Sky de
+http://163.172.217.53:8000/live/5grandiptv915/67863345/352.ts
+#EXTINF:0,#EXTINF:-1,Sky de
+http://163.172.217.53:8000/live/5grandiptv915/67863345/377.ts
+#EXTINF:0,#EXTINF:-1,Sky de
+http://163.172.217.53:8000/live/5grandiptv915/67863345/376.ts
+#EXTINF:0,#EXTINF:-1,Sky de
+http://163.172.217.53:8000/live/5grandiptv915/67863345/368.ts
+#EXTINF:0,#EXTINF:-1,Sky de
+http://163.172.217.53:8000/live/5grandiptv915/67863345/362.ts
+#EXTINF:0,#EXTINF:-1,Sky de
+http://163.172.217.53:8000/live/5grandiptv915/67863345/361.ts
+#EXTINF:0,#EXTINF:-1,Sky de
+http://163.172.217.53:8000/live/5grandiptv915/67863345/358.ts
+#EXTINF:0,#EXTINF:-1,Sky de
+http://163.172.217.53:8000/live/5grandiptv915/67863345/350.ts
+#EXTINF:0,#EXTINF:-1,Sky de
+http://163.172.217.53:8000/live/5grandiptv915/67863345/351.ts
+#EXTINF:0,#EXTINF:-1,Sky de
+http://163.172.217.53:8000/live/5grandiptv915/67863345/374.ts
+#EXTINF:0,#EXTINF:-1,Sky de
+http://163.172.217.53:8000/live/5grandiptv915/67863345/370.ts
+#EXTINF:0,#EXTINF:-1,Sky de
+http://163.172.217.53:8000/live/5grandiptv915/67863345/399.ts
+#EXTINF:0,#EXTINF:-1,Sky de
+http://163.172.217.53:8000/live/5grandiptv915/67863345/398.ts
+#EXTINF:0,#EXTINF:-1,Sky de
+http://163.172.217.53:8000/live/5grandiptv915/67863345/375.ts
+#EXTINF:0,#EXTINF:-1,Sky de
+http://163.172.217.53:8000/live/5grandiptv915/67863345/400.ts
+#EXTINF:0,#EXTINF:-1,Sky de
+http://163.172.217.53:8000/live/5grandiptv915/67863345/371.ts
+#EXTINF:0,#EXTINF:-1,Sky de
+http://163.172.217.53:8000/live/5grandiptv915/67863345/372.ts
+#EXTINF:0,#EXTINF:-1,Sky de
+http://163.172.217.53:8000/live/5grandiptv915/67863345/381.ts
+#EXTINF:0,#EXTINF:-1,Sky de
+http://163.172.217.53:8000/live/5grandiptv915/67863345/364.ts
+#EXTINF:0,#EXTINF:-1,Sky de
+http://163.172.217.53:8000/live/5grandiptv915/67863345/383.ts
+#EXTINF:0,#EXTINF:-1,Sky de
+http://163.172.217.53:8000/live/5grandiptv915/67863345/373.ts
+#EXTINF:0,#EXTINF:-1,Sky de
+http://163.172.217.53:8000/live/5grandiptv915/67863345/395.ts
+#EXTINF:0,#EXTINF:-1,Sky de
+http://163.172.217.53:8000/live/5grandiptv915/67863345/397.ts
+#EXTINF:0,#EXTINF:-1,Sky de
+http://163.172.217.53:8000/live/5grandiptv915/67863345/401.ts
+#EXTINF:0,#EXTINF:-1,Sky de
+http://163.172.217.53:8000/live/5grandiptv915/67863345/366.ts
+#EXTINF:0,#EXTINF:-1,Sky de
+http://163.172.217.53:8000/live/5grandiptv915/67863345/396.ts
+#EXTINF:0,#EXTINF:-1,Sky de
+http://163.172.217.53:8000/live/5grandiptv915/67863345/356.ts
+#EXTINF:0,#EXTINF:-1,Sky de
+http://163.172.217.53:8000/live/5grandiptv915/67863345/392.ts
+#EXTINF:0,#EXTINF:-1,Sky de
+http://163.172.217.53:8000/live/5grandiptv915/67863345/354.ts
+#EXTINF:0,#EXTINF:-1,Sky de
+http://163.172.217.53:8000/live/5grandiptv915/67863345/353.ts
+#EXTINF:0,#EXTINF:-1,Sky de
+http://163.172.217.53:8000/live/5grandiptv915/67863345/407.ts
+#EXTINF:0,#EXTINF:-1,---Sky-DE--------------------------------
+http://149.202.77.226:7500/live/1111/1111/889.ts
+#EXTINF:0,#EXTINF:-1,Sky-action
+http://149.202.77.226:7500/live/1111/1111/987.ts
+#EXTINF:0,#EXTINF:-1,Sky-Cinema1HD
+http://149.202.77.226:7500/live/1111/1111/823.ts
+#EXTINF:0,#EXTINF:-1,Sky-emotion
+http://149.202.77.226:7500/live/1111/1111/989.ts
+#EXTINF:0,#EXTINF:-1,Sky-krimi
+http://149.202.77.226:7500/live/1111/1111/988.ts
+#EXTINF:0,#EXTINF:-1,Sky-nostalgie
+http://149.202.77.226:7500/live/1111/1111/991.ts
+#EXTINF:0,#EXTINF:-1,Skyde-sport1
+http://149.202.77.226:7500/live/1111/1111/992.ts
+#EXTINF:0,#EXTINF:-1,SkySport2HD
+http://149.202.77.226:7500/live/1111/1111/834.ts
+#EXTINF:0,#EXTINF:-1,Sky-BundesLiga1HD
+http://149.202.77.226:7500/live/1111/1111/824.ts
+#EXTINF:0,#EXTINF:-1,ZDF
+http://149.202.77.226:7500/live/1111/1111/832.ts
+#EXTINF:0,#EXTINF:-1,VOX
+http://149.202.77.226:7500/live/1111/1111/833.ts
+#EXTINF:0,#EXTINF:-1,DE
+http://164.132.182.253:22921/live/Miguel/skype/51.ts
+#EXTINF:0,#EXTINF:-1,DE
+http://164.132.182.253:22921/live/Miguel/skype/118.ts
+#EXTINF:0,#EXTINF:-1,DE
+http://164.132.182.253:22921/live/Miguel/skype/52.ts
+#EXTINF:0,#EXTINF:-1,DE
+http://164.132.182.253:22921/live/Miguel/skype/248.ts
+#EXTINF:0,#EXTINF:-1,DE
+http://164.132.182.253:22921/live/Miguel/skype/111.ts
+#EXTINF:0,#EXTINF:-1,DE
+http://164.132.182.253:22921/live/Miguel/skype/107.ts
+#EXTINF:0,#EXTINF:-1,DE
+http://164.132.182.253:22921/live/Miguel/skype/19.ts
+#EXTINF:0,#EXTINF:-1,DE
+http://164.132.182.253:22921/live/Miguel/skype/71.ts
+#EXTINF:0,#EXTINF:-1,DE
+http://164.132.182.253:22921/live/Miguel/skype/70.ts
+#EXTINF:0,#EXTINF:-1,DE
+http://164.132.182.253:22921/live/Miguel/skype/69.ts
+#EXTINF:0,#EXTINF:-1,DE
+http://164.132.182.253:22921/live/Miguel/skype/191.ts
+#EXTINF:0,#EXTINF:-1,DE
+http://164.132.182.253:22921/live/Miguel/skype/16.ts
+#EXTINF:0,#EXTINF:-1,DE
+http://164.132.182.253:22921/live/Miguel/skype/110.ts
+#EXTINF:0,#EXTINF:-1,DE
+http://164.132.182.253:22921/live/Miguel/skype/53.ts
+#EXTINF:0,#EXTINF:-1,DE
+http://164.132.182.253:22921/live/Miguel/skype/54.ts
+#EXTINF:0,#EXTINF:-1,DE
+http://164.132.182.253:22921/live/Miguel/skype/55.ts
+#EXTINF:0,#EXTINF:-1,DE
+http://164.132.182.253:22921/live/Miguel/skype/56.ts
+#EXTINF:0,#EXTINF:-1,DE
+http://164.132.182.253:22921/live/Miguel/skype/119.ts
+#EXTINF:0,#EXTINF:-1,DE
+http://164.132.182.253:22921/live/Miguel/skype/166.ts
+#EXTINF:0,#EXTINF:-1,DE
+http://164.132.182.253:22921/live/Miguel/skype/167.ts
+#EXTINF:0,#EXTINF:-1,DE
+http://164.132.182.253:22921/live/Miguel/skype/116.ts
+#EXTINF:0,#EXTINF:-1,DE
+http://164.132.182.253:22921/live/Miguel/skype/113.ts
+#EXTINF:0,#EXTINF:-1,DE
+http://164.132.182.253:22921/live/Miguel/skype/109.ts
+#EXTINF:0,#EXTINF:-1,DE
+http://164.132.182.253:22921/live/Miguel/skype/57.ts
+#EXTINF:0,#EXTINF:-1,DE
+http://164.132.182.253:22921/live/Miguel/skype/112.ts
+#EXTINF:0,#EXTINF:-1,DE-ard
+http://localchannel.expertshort.net:8000/live/idou/idou/1655.ts
+#EXTINF:0,#EXTINF:-1,DE-ARTE
+http://localchannel.expertshort.net:8000/live/idou/idou/1656.ts
+#EXTINF:0,#EXTINF:-1,DE-DMAX
+http://localchannel.expertshort.net:8000/live/idou/idou/1654.ts
+#EXTINF:0,#EXTINF:-1,DE-SuperRTL
+http://localchannel.expertshort.net:8000/live/idou/idou/1658.ts
+#EXTINF:0,#EXTINF:-1,DE-Sport1
+http://localchannel.expertshort.net:8000/live/idou/idou/1159.ts
+#EXTINF:0,#EXTINF:-1,DE-SkyTNTSerieHD
+http://localchannel.expertshort.net:8000/live/idou/idou/1176.ts
+#EXTINF:0,#EXTINF:-1,DE-Pro7
+http://localchannel.expertshort.net:8000/live/idou/idou/1652.ts
+#EXTINF:0,#EXTINF:-1,DE-ORF1
+http://localchannel.expertshort.net:8000/live/idou/idou/1653.ts
+#EXTINF:0,#EXTINF:-1,DE-SKYDisneyJunior
+http://localchannel.expertshort.net:8000/live/idou/idou/1162.ts
+#EXTINF:0,#EXTINF:-1,DE-SkyAction
+http://localchannel.expertshort.net:8000/live/idou/idou/1171.ts
+#EXTINF:0,#EXTINF:-1,DE-SkyAtlanticHD
+http://localchannel.expertshort.net:8000/live/idou/idou/1163.ts
+#EXTINF:0,#EXTINF:-1,DE-SkyNatGeoWildHD
+http://localchannel.expertshort.net:8000/live/idou/idou/1174.ts
+#EXTINF:0,#EXTINF:-1,DE-SkyKinoweltTV
+http://localchannel.expertshort.net:8000/live/idou/idou/1185.ts
+#EXTINF:0,#EXTINF:-1,DE-SkyHits
+http://localchannel.expertshort.net:8000/live/idou/idou/1169.ts
+#EXTINF:0,#EXTINF:-1,DE-SKYDisneyCinemagic24
+http://localchannel.expertshort.net:8000/live/idou/idou/1168.ts
+#EXTINF:0,#EXTINF:-1,DE-SkyCinema24
+http://localchannel.expertshort.net:8000/live/idou/idou/1184.ts
+#EXTINF:0,#EXTINF:-1,==== KANALA KOSOVES ====
+#EXTM3U
+#EXTINF:0,#
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/871.ts
+#EXTINF:0,#EXTINF:-1,Top Channel
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/25.ts
+#EXTINF:0,#EXTINF:-1,Klan
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/878.ts
+#EXTINF:0,#EXTINF:-1,Top News
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/3.ts
+#EXTINF:0,#EXTINF:-1,Top Channel HD
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/106.ts
+#EXTINF:0,#EXTINF:-1,Klan HD
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/107.ts
+#EXTINF:0,#EXTINF:-1,Rtk HD
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/15.ts
+#EXTINF:0,#EXTINF:-1,Vizion Plus
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/10.ts
+#EXTINF:0,#EXTINF:-1,Vizion Plus HD
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/880.ts
+#EXTINF:0,#EXTINF:-1,RTK
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/935.ts
+#EXTINF:0,#EXTINF:-1,Ktv HD
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/48.ts
+#EXTINF:0,#EXTINF:-1,KTV
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/934.ts
+#EXTINF:0,#EXTINF:-1,RTV 21 HD
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/47.ts
+#EXTINF:0,#EXTINF:-1,RTV 21
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/933.ts
+#EXTINF:0,#EXTINF:-1,Klan Kosova
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/932.ts
+#EXTINF:0,#EXTINF:-1,Klan kosova HD
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1008.ts
+#EXTINF:0,#EXTINF:-1,RTK 2
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/913.ts
+#EXTINF:0,#EXTINF:-1,Rtk 3
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/820.ts
+#EXTINF:0,#EXTINF:-1,Rtk 4
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/700.ts
+#EXTINF:0,#EXTINF:-1,News 24
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/5.ts
+#EXTINF:0,#EXTINF:-1,News 24 HD
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1678.ts
+#EXTINF:0,#EXTINF:-1,Ora News HD
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/728.ts
+#EXTINF:0,#EXTINF:-1,A1 Report
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/927.ts
+#EXTINF:0,#EXTINF:-1,Abc News
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/6.ts
+#EXTINF:0,#EXTINF:-1,UTV News
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1619.ts
+#EXTINF:0,#EXTINF:-1,Channel One
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/911.ts
+#EXTINF:0,#EXTINF:-1,Scan Al
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1620.ts
+#EXTINF:0,#EXTINF:-1,Tvsh
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/108.ts
+#EXTINF:0,#EXTINF:-1,RTSH HD
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/162.ts
+#EXTINF:0,#EXTINF:-1,Klan Plus
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/32.ts
+#EXTINF:0,#EXTINF:-1,ARTA TV
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/912.ts
+#EXTINF:0,#EXTINF:-1,Kombi
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/40.ts
+#EXTINF:0,#EXTINF:-1,EuroNews
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/226.ts
+#EXTINF:0,#EXTINF:-1,VOA
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1621.ts
+#EXTINF:0,#EXTINF:-1,Rtsh Muzike
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/856.ts
+#EXTINF:0,#EXTINF:-1,Tema Tv
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/928.ts
+#EXTINF:0,#EXTINF:-1,21 Plus
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/725.ts
+#EXTINF:0,#EXTINF:-1,Zjarr Tv
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/812.ts
+#EXTINF:0,#EXTINF:-1,21 HD Popullore
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/49.ts
+#EXTINF:0,#EXTINF:-1,Star Plus Shkoder
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/181.ts
+#EXTINF:0,#EXTINF:-1,Sot 7 Pogradec
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/999.ts
+#EXTINF:0,#EXTINF:-1,Vlora Tv
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1058.ts
+#EXTINF:0,#EXTINF:-1,Vlora 1
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1594.ts
+#EXTINF:0,#EXTINF:-1,FOKUS
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1060.ts
+#EXTINF:0,#EXTINF:-1,BLU SKY
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/7.ts
+#EXTINF:0,#EXTINF:-1,IN TV
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/837.ts
+#EXTINF:0,#EXTINF:-1,Rrokum HD
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/717.ts
+#EXTINF:0,#EXTINF:-1,CLICK TV
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/930.ts
+#EXTINF:0,#EXTINF:-1,BCTV Europe
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1622.ts
+#EXTINF:0,#EXTINF:-1,Jug Tv
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/238.ts
+#EXTINF:0,#EXTINF:-1,First Tv
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/936.ts
+#EXTINF:0,#EXTINF:-1,Alsat M-B
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/985.ts
+#EXTINF:0,#EXTINF:-1,Alsat M
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/39.ts
+#EXTINF:0,#EXTINF:-1,Shenja Tv
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/904.ts
+#EXTINF:0,#EXTINF:-1,Tribuna
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1050.ts
+#EXTINF:0,#EXTINF:-1,ALBTV USA
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1630.ts
+#EXTINF:0,#EXTINF:-1,MKTV2
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/94.ts
+#EXTINF:0,#EXTINF:-1,Era tv
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/9.ts
+#EXTINF:0,#EXTINF:-1,RTP Presheva
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1611.ts
+#EXTINF:0,#EXTINF:-1,RTB Bujanoc
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1610.ts
+#EXTINF:0,#EXTINF:-1,TV Mitrovica
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1629.ts
+#EXTINF:0,#EXTINF:-1,Tv Opoja
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/937.ts
+#EXTINF:0,#EXTINF:-1,Islam Tv
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1721.ts
+#EXTINF:0,#EXTINF:-1,Peace Tv
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/860.ts
+#EXTINF:0,#EXTINF:-1,Top Channel EST USA
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/873.ts
+#EXTINF:0,#EXTINF:-1,KLAN EST USA
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/876.ts
+#EXTINF:0,#EXTINF:-1,Vizion+ EST USA
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/879.ts
+#EXTINF:0,#EXTINF:-1,TVSH EST
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1628.ts
+#EXTINF:0,#EXTINF:-1,News 24 EST
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/922.ts
+#EXTINF:0,#EXTINF:-1,Alsat M EST USA
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/877.ts
+#EXTINF:0,#EXTINF:-1,Alb Humor
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/938.ts
+#EXTINF:0,#EXTINF:-1,Alb Humor 2
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1052.ts
+#EXTINF:0,#EXTINF:-1,Bang Bang
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/12.ts
+#EXTINF:0,#EXTINF:-1,Cufo
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/13.ts
+#EXTINF:0,#EXTINF:-1,Junior
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/14.ts
+#EXTINF:0,#EXTINF:-1,Baby Tv
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/783.ts
+#EXTINF:0,#EXTINF:-1,Disney Channel
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/853.ts
+#EXTINF:0,#EXTINF:-1,Alb Kids
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1049.ts
+#EXTINF:0,#EXTINF:-1,Explorer Shkence
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/16.ts
+#EXTINF:0,#EXTINF:-1,Explorer History
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/17.ts
+#EXTINF:0,#EXTINF:-1,Explorer Natyre
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/18.ts
+#EXTINF:0,#EXTINF:-1,TLC
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/727.ts
+#EXTINF:0,#EXTINF:-1,Discovery AL
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1057.ts
+#EXTINF:0,#EXTINF:-1,TRAVEL CHANNEL
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/983.ts
+#EXTINF:0,#EXTINF:-1,National Geographic AL
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/768.ts
+#EXTINF:0,#EXTINF:-1,24 Kitchen
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/906.ts
+#EXTINF:0,#EXTINF:-1,Dasma Tv
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/811.ts
+#EXTINF:0,#EXTINF:-1,City Tv
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/715.ts
+#EXTINF:0,#EXTINF:-1,AVN
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1059.ts
+#EXTINF:0,#EXTINF:-1,Fen Tv
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1313.ts
+#EXTINF:0,#EXTINF:-1,Ballkanika
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/827.ts
+#EXTINF:0,#EXTINF:-1,Planeta Tv
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1045.ts
+#EXTINF:0,#EXTINF:-1,Supersonic Tv
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/24.ts
+#EXTINF:0,#EXTINF:-1,BBF
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/28.ts
+#EXTINF:0,#EXTINF:-1,Folk Plus
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/212.ts
+#EXTINF:0,#EXTINF:-1,Super Folk
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/38.ts
+#EXTINF:0,#EXTINF:-1,elrodi
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/43.ts
+#EXTINF:0,#EXTINF:-1,Tirana Tv
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/37.ts
+#EXTINF:0,#EXTINF:-1,Folklorit
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/156.ts
+#EXTINF:0,#EXTINF:-1,Music Al
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/863.ts
+#EXTINF:0,#EXTINF:-1,My Music
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/27.ts
+#EXTINF:0,#EXTINF:-1,Star Tv Music
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1627.ts
+#EXTINF:0,#EXTINF:-1,MUZIKE HITE
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1626.ts
+#EXTINF:0,#EXTINF:-1,MFM music
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1623.ts
+#EXTINF:0,#EXTINF:-1,T+ HD
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/20.ts
+#EXTINF:0,#EXTINF:-1,Plus HD
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/770.ts
+#EXTINF:0,#EXTINF:-1,Film Nje HD
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/998.ts
+#EXTINF:0,#EXTINF:-1,Film Dy HD
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/31.ts
+#EXTINF:0,#EXTINF:-1,Film Nje SD
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/994.ts
+#EXTINF:0,#EXTINF:-1,Film Dy SD
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/995.ts
+#EXTINF:0,#EXTINF:-1,Sky AL Shkencë
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1613.ts
+#EXTINF:0,#EXTINF:-1,Sky AL Dramë
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1615.ts
+#EXTINF:0,#EXTINF:-1,Sky AL Aksion
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1614.ts
+#EXTINF:0,#EXTINF:-1,Sky Komedi
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/939.ts
+#EXTINF:0,#EXTINF:-1,Kino Premiere 1 HD
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/767.ts
+#EXTINF:0,#EXTINF:-1,Kino Premiere 2 HD
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/925.ts
+#EXTINF:0,#EXTINF:-1,Kino Premiere 3 HD
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1002.ts
+#EXTINF:0,#EXTINF:-1,Kino Sci Fi
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1000.ts
+#EXTINF:0,#EXTINF:-1,Kino Dark
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1001.ts
+#EXTINF:0,#EXTINF:-1,Kino Romance HD
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/926.ts
+#EXTINF:0,#EXTINF:-1,Kino Thriller
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1568.ts
+#EXTINF:0,#EXTINF:-1,Kino Drama
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/857.ts
+#EXTINF:0,#EXTINF:-1,Kino Aksion
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/175.ts
+#EXTINF:0,#EXTINF:-1,Kino Komedi
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/4.ts
+#EXTINF:0,#EXTINF:-1,Film Shqip
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1625.ts
+#EXTINF:0,#EXTINF:-1,ALB FILM SHQIP HD
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/874.ts
+#EXTINF:0,#EXTINF:-1,Fox AL
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/996.ts
+#EXTINF:0,#EXTINF:-1,Fox Life Al
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1063.ts
+#EXTINF:0,#EXTINF:-1,EXTRA  KOMEDY
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/2.ts
+#EXTINF:0,#EXTINF:-1,ShqipTV Stupcat HD
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1528.ts
+#EXTINF:0,#EXTINF:-1,ShqipTV Çifteli HD
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1524.ts
+#EXTINF:0,#EXTINF:-1,Antena Tv
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1521.ts
+#EXTINF:0,#EXTINF:-1,Alb Muzik
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1520.ts
+#EXTINF:0,#EXTINF:-1,Magic Tv
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1522.ts
+#EXTINF:0,#EXTINF:-1,ShqipTV Movie HD
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1527.ts
+#EXTINF:0,#EXTINF:-1,ShqipTV Hindi HD
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1526.ts
+#EXTINF:0,#EXTINF:-1,ShqipTV Horror HD
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1525.ts
+#EXTINF:0,#EXTINF:-1,ShqipTV Western HD
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1523.ts
+#EXTINF:0,#EXTINF:-1,Film 24 HD
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1518.ts
+#EXTINF:0,#EXTINF:-1,Alb Thriller HD
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1519.ts
+#EXTINF:0,#EXTINF:-1,Alb Action HD
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1517.ts
+#EXTINF:0,#EXTINF:-1,ShqipTV Fantasy HD
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1529.ts
+#EXTINF:0,#EXTINF:-1,Digi Gold
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/191.ts
+#EXTINF:0,#EXTINF:-1,Digi Gold 1
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1530.ts
+#EXTINF:0,#EXTINF:-1,Digi Gold 2
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1531.ts
+#EXTINF:0,#EXTINF:-1,Digi Gold 3
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1532.ts
+#EXTINF:0,#EXTINF:-1,Digi Gold 4
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1533.ts
+#EXTINF:0,#EXTINF:-1,Stinet
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/19.ts
+#EXTINF:0,#EXTINF:-1,Film Autor
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/192.ts
+#EXTINF:0,#EXTINF:-1,Film Hits
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/42.ts
+#EXTINF:0,#EXTINF:-1,Film Hits +1
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/74.ts
+#EXTINF:0,#EXTINF:-1,Film Thriller
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/45.ts
+#EXTINF:0,#EXTINF:-1,Film Drame
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/46.ts
+#EXTINF:0,#EXTINF:-1,Film Aksion SD
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/993.ts
+#EXTINF:0,#EXTINF:-1,Film Aksion
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/21.ts
+#EXTINF:0,#EXTINF:-1,Film Komedi
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/22.ts
+#EXTINF:0,#EXTINF:-1,SuperSport 1
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/861.ts
+#EXTINF:0,#EXTINF:-1,Supersport 2
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/30.ts
+#EXTINF:0,#EXTINF:-1,Supersport 3
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/34.ts
+#EXTINF:0,#EXTINF:-1,Supersport  4
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/33.ts
+#EXTINF:0,#EXTINF:-1,SuperSport 1 HD
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/153.ts
+#EXTINF:0,#EXTINF:-1,SuperSport 2 HD
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/154.ts
+#EXTINF:0,#EXTINF:-1,Supersport 3 HD
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/720.ts
+#EXTINF:0,#EXTINF:-1,SuperSport 4 HD
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/722.ts
+#EXTINF:0,#EXTINF:-1,Supersport 5 HD
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/168.ts
+#EXTINF:0,#EXTINF:-1,Supersport 6 HD
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/742.ts
+#EXTINF:0,#EXTINF:-1,Supersport 1 Digitalb Kudo
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1003.ts
+#EXTINF:0,#EXTINF:-1,Supersport 2 Digitalb Kudo
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1004.ts
+#EXTINF:0,#EXTINF:-1,SuperSport 3 Digitalb Kudo
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1005.ts
+#EXTINF:0,#EXTINF:-1,SS-4 HD Digitalb Kudo
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1616.ts
+#EXTINF:0,#EXTINF:-1,SS-5 HD Digitalb Kudo
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1617.ts
+#EXTINF:0,#EXTINF:-1,SS-6 HD Digitalb Kudo
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1618.ts
+#EXTINF:0,#EXTINF:-1,Supersport Kosova 1
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/35.ts
+#EXTINF:0,#EXTINF:-1,Supersport Kosova 2
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/36.ts
+#EXTINF:0,#EXTINF:-1,Kujtesa Sport 1
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/862.ts
+#EXTINF:0,#EXTINF:-1,Kujtesa Sport 2
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/8.ts
+#EXTINF:0,#EXTINF:-1,Kujtesa Sport 3
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1588.ts
+#EXTINF:0,#EXTINF:-1,Kujtesa Sport 4
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1590.ts
+#EXTINF:0,#EXTINF:-1,Joly HD
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/169.ts
+#EXTINF:0,#EXTINF:-1,Linving HD
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/732.ts
+#EXTINF:0,#EXTINF:-1,3 Plus
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/173.ts
+#EXTINF:0,#EXTINF:-1,Smile
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/752.ts
+#EXTINF:0,#EXTINF:-1,Tring Tring
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/53.ts
+#EXTINF:0,#EXTINF:-1,SOFIA
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/929.ts
+#EXTINF:0,#EXTINF:-1,Tiptv
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/65.ts
+#EXTINF:0,#EXTINF:-1,Tring World
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/772.ts
+#EXTINF:0,#EXTINF:-1,Tring History
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/56.ts
+#EXTINF:0,#EXTINF:-1,Tring Planet
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/52.ts
+#EXTINF:0,#EXTINF:-1,Tring Fantasy
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/721.ts
+#EXTINF:0,#EXTINF:-1,Tring Life
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/713.ts
+#EXTINF:0,#EXTINF:-1,Tring Super
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/716.ts
+#EXTINF:0,#EXTINF:-1,Tring Max
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/50.ts
+#EXTINF:0,#EXTINF:-1,Tring Shqip
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/55.ts
+#EXTINF:0,#EXTINF:-1,Tring Comedy
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/51.ts
+#EXTINF:0,#EXTINF:-1,Tring Sport News
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/232.ts
+#EXTINF:0,#EXTINF:-1,Tring Sport 1
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/714.ts
+#EXTINF:0,#EXTINF:-1,Tring Sport 2
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/769.ts
+#EXTINF:0,#EXTINF:-1,Tring Sport 3
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/54.ts
+#EXTINF:0,#EXTINF:-1,Tring Sport 4
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/814.ts
+#EXTINF:0,#EXTINF:-1,====KANALA Ballkan =====
+#EXTM3U
+#EXTINF:0,#
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/869.ts
+#EXTINF:0,#EXTINF:-1,MRTV 1
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/93.ts
+#EXTINF:0,#EXTINF:-1,24 Vesti
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/914.ts
+#EXTINF:0,#EXTINF:-1,Sitel
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/91.ts
+#EXTINF:0,#EXTINF:-1,MK
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1589.ts
+#EXTINF:0,#EXTINF:-1,SITEL 3
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/908.ts
+#EXTINF:0,#EXTINF:-1,Telma
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/90.ts
+#EXTINF:0,#EXTINF:-1,Alfa MK
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/800.ts
+#EXTINF:0,#EXTINF:-1,KANAL 5
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/92.ts
+#EXTINF:0,#EXTINF:-1,MK
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/712.ts
+#EXTINF:0,#EXTINF:-1,RTV 21MK
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/982.ts
+#EXTINF:0,#EXTINF:-1,Ohrid
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/903.ts
+#EXTINF:0,#EXTINF:-1,Intv au MK
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1390.ts
+#EXTINF:0,#EXTINF:-1,Tv Nova MK
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/875.ts
+#EXTINF:0,#EXTINF:-1,MK
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/891.ts
+#EXTINF:0,#EXTINF:-1,Dm Sat
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/699.ts
+#EXTINF:0,#EXTINF:-1,BG
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1683.ts
+#EXTINF:0,#EXTINF:-1,BG
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1684.ts
+#EXTINF:0,#EXTINF:-1,BG
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1685.ts
+#EXTINF:0,#EXTINF:-1,BG
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1687.ts
+#EXTINF:0,#EXTINF:-1,BG
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1686.ts
+#EXTINF:0,#EXTINF:-1,BG
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1688.ts
+#EXTINF:0,#EXTINF:-1,BG
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1689.ts
+#EXTINF:0,#EXTINF:-1,BG
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1690.ts
+#EXTINF:0,#EXTINF:-1,BG
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1681.ts
+#EXTINF:0,#EXTINF:-1,BG
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1680.ts
+#EXTINF:0,#EXTINF:-1,BG
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1682.ts
+#EXTINF:0,#EXTINF:-1,BG
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1693.ts
+#EXTINF:0,#EXTINF:-1,BG
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1691.ts
+#EXTINF:0,#EXTINF:-1,BG
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1692.ts
+#EXTINF:0,#EXTINF:-1,Nova TV
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/100.ts
+#EXTINF:0,#EXTINF:-1,PRVA
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/230.ts
+#EXTINF:0,#EXTINF:-1,OBN
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/99.ts
+#EXTINF:0,#EXTINF:-1,HRT
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/97.ts
+#EXTINF:0,#EXTINF:-1,HRT 2
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/98.ts
+#EXTINF:0,#EXTINF:-1,RTS 1
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/150.ts
+#EXTINF:0,#EXTINF:-1,Rts 2
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/765.ts
+#EXTINF:0,#EXTINF:-1,BN
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/178.ts
+#EXTINF:0,#EXTINF:-1,B92
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/151.ts
+#EXTINF:0,#EXTINF:-1,Doma
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/779.ts
+#EXTINF:0,#EXTINF:-1,Hayat HD
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/997.ts
+#EXTINF:0,#EXTINF:-1,NR 1 Serb
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/761.ts
+#EXTINF:0,#EXTINF:-1,PINK
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/85.ts
+#EXTINF:0,#EXTINF:-1,Pink 2
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/867.ts
+#EXTINF:0,#EXTINF:-1,Pink 3
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/764.ts
+#EXTINF:0,#EXTINF:-1,Pink Premium
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/868.ts
+#EXTINF:0,#EXTINF:-1,PINK CRIME&MYSTERY
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/730.ts
+#EXTINF:0,#EXTINF:-1,Pink Plus
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/756.ts
+#EXTINF:0,#EXTINF:-1,Pink Extra
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/763.ts
+#EXTINF:0,#EXTINF:-1,Pink Film
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/176.ts
+#EXTINF:0,#EXTINF:-1,Pink BH
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/115.ts
+#EXTINF:0,#EXTINF:-1,PInk Horror
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/762.ts
+#EXTINF:0,#EXTINF:-1,PINK THRILLER
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/758.ts
+#EXTINF:0,#EXTINF:-1,PINK ACTION
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/86.ts
+#EXTINF:0,#EXTINF:-1,Pink Comedy
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/726.ts
+#EXTINF:0,#EXTINF:-1,Pink Romance
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/866.ts
+#EXTINF:0,#EXTINF:-1,Pink Kids
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/224.ts
+#EXTINF:0,#EXTINF:-1,PINK FOLK 1
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/87.ts
+#EXTINF:0,#EXTINF:-1,HAYAT FOLK
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/229.ts
+#EXTINF:0,#EXTINF:-1,BN MUSIC
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/760.ts
+#EXTINF:0,#EXTINF:-1,Discovery World BK
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/757.ts
+#EXTINF:0,
+#EXTM3U
+#EXTINF:0,#EXTINF:-1,===KANALA BULGARIS==
+#EXTM3U
+#EXTINF:0,#
+#EXTINF:-1,*****Bulgarische********* By www.iptv4free.com
+#EXTINF:0,http://goldtv.al:8000/live/MUSA/musa/1008.ts
+#EXTINF:-1,BG:Roma TV**** By www.iptv4free.com
+#EXTINF:0,http://goldtv.al:8000/live/MUSA/musa/1003.ts
+#EXTINF:-1,BG:Planeta  HD
+#EXTINF:0,http://goldtv.al:8000/live/MUSA/musa/3197.ts
+#EXTINF:-1,BG:Balkanika Music
+#EXTINF:0,http://goldtv.al:8000/live/MUSA/musa/4478.ts
+#EXTINF:-1,BG:Fen TV HD
+#EXTINF:0,http://goldtv.al:8000/live/MUSA/musa/3195.ts
+#EXTINF:-1,BG:DIBI TV ROMANIA MUSIK
+#EXTINF:0,http://goldtv.al:8000/live/MUSA/musa/1007.ts
+#EXTINF:-1,BG:BG Music
+#EXTINF:0,http://goldtv.al:8000/live/MUSA/musa/4477.ts
+#EXTINF:-1,BG:Balkan
+#EXTINF:0,http://goldtv.al:8000/live/MUSA/musa/4491.ts
+#EXTINF:-1,BG:BTV Action
+#EXTINF:0,http://goldtv.al:8000/live/MUSA/musa/3183.ts
+#EXTINF:-1,BG:Action Plus
+#EXTINF:0,http://goldtv.al:8000/live/MUSA/musa/3179.ts
+#EXTINF:-1,BG:Cinemax 1
+#EXTINF:0,http://goldtv.al:8000/live/MUSA/musa/3201.ts
+#EXTINF:-1,BG:Cinemax 2
+#EXTINF:0,http://goldtv.al:8000/live/MUSA/musa/3200.ts
+#EXTINF:-1,BG:BTV Cinema
+#EXTINF:0,http://goldtv.al:8000/live/MUSA/musa/3180.ts
+#EXTINF:-1,BG:BG:HBO
+#EXTINF:0,http://goldtv.al:8000/live/MUSA/musa/3204.ts
+#EXTINF:-1,BG:HBO 3
+#EXTINF:0,http://goldtv.al:8000/live/MUSA/musa/3202.ts
+#EXTINF:-1,BG:HBO 2
+#EXTINF:0,http://goldtv.al:8000/live/MUSA/musa/3203.ts
+#EXTINF:-1,BG:Cinema Plus
+#EXTINF:0,http://goldtv.al:8000/live/MUSA/musa/3199.ts
+#EXTINF:-1,BG:Film Plus
+#EXTINF:0,http://goldtv.al:8000/live/MUSA/musa/3188.ts
+#EXTINF:-1,BG:Filmbox Extra
+#EXTINF:0,http://goldtv.al:8000/live/MUSA/musa/3189.ts
+#EXTINF:-1,BG:Comedy Central
+#EXTINF:0,http://goldtv.al:8000/live/MUSA/musa/3177.ts
+#EXTINF:-1,BG:Comedy Plus
+#EXTINF:0,http://goldtv.al:8000/live/MUSA/musa/3178.ts
+#EXTINF:-1,BG:BTV Comedy
+#EXTINF:0,http://goldtv.al:8000/live/MUSA/musa/3181.ts
+#EXTINF:-1,BG:Diema Family
+#EXTINF:0,http://goldtv.al:8000/live/MUSA/musa/3185.ts
+#EXTINF:-1,BG:Diema TV
+#EXTINF:0,http://goldtv.al:8000/live/MUSA/musa/3186.ts
+#EXTINF:-1,BG:Kino Nova
+#EXTINF:0,http://goldtv.al:8000/live/MUSA/musa/3192.ts
+#EXTINF:-1,BG:TV Plus HD
+#EXTINF:0,http://goldtv.al:8000/live/MUSA/musa/3207.ts
+#EXTINF:-1,BG:Magic TV
+#EXTINF:0,http://goldtv.al:8000/live/MUSA/musa/3193.ts
+#EXTINF:-1,BG:Ring TV
+#EXTINF:0,http://goldtv.al:8000/live/MUSA/musa/3210.ts
+#EXTINF:-1,BG:TV Stoichev
+#EXTINF:0,http://goldtv.al:8000/live/MUSA/musa/4486.ts
+#EXTINF:-1,BG:TV Art
+#EXTINF:0,http://goldtv.al:8000/live/MUSA/musa/4485.ts
+#EXTINF:-1,BG:The Voice
+#EXTINF:0,http://goldtv.al:8000/live/MUSA/musa/4494.ts
+#EXTINF:-1,BG:Sportal
+#EXTINF:0,http://goldtv.al:8000/live/MUSA/musa/4498.ts
+#EXTINF:-1,BG:Plovdivska
+#EXTINF:0,http://goldtv.al:8000/live/MUSA/musa/4487.ts
+#EXTINF:-1,BG:Outdoor Channel
+#EXTINF:0,http://goldtv.al:8000/live/MUSA/musa/4481.ts
+#EXTINF:-1,BG:National Geographic
+#EXTINF:0,http://goldtv.al:8000/live/MUSA/musa/4483.ts
+#EXTINF:-1,BG:Nat Geo Wild
+#EXTINF:0,http://goldtv.al:8000/live/MUSA/musa/4482.ts
+#EXTINF:-1,BG:Kanal 3
+#EXTINF:0,http://goldtv.al:8000/live/MUSA/musa/4495.ts
+#EXTINF:-1,BG:FOX
+#EXTINF:0,http://goldtv.al:8000/live/MUSA/musa/4496.ts
+#EXTINF:-1,BG:Fine Living
+#EXTINF:0,http://goldtv.al:8000/live/MUSA/musa/4484.ts
+#EXTINF:-1,BG:Evrokom
+#EXTINF:0,http://goldtv.al:8000/live/MUSA/musa/4488.ts
+#EXTINF:-1,BG:Discovery Channel
+#EXTINF:0,http://goldtv.al:8000/live/MUSA/musa/4480.ts
+#EXTINF:-1,BG:Destination BG
+#EXTINF:0,http://goldtv.al:8000/live/MUSA/musa/4472.ts
+#EXTINF:-1,BG:City TV
+#EXTINF:0,http://goldtv.al:8000/live/MUSA/musa/4489.ts
+#EXTINF:-1,BG:Cartoon Network
+#EXTINF:0,http://goldtv.al:8000/live/MUSA/musa/4497.ts
+#EXTINF:-1,BG:BNT
+#EXTINF:0,http://goldtv.al:8000/live/MUSA/musa/4474.ts
+#EXTINF:-1,BG:BNT 1
+#EXTINF:0,http://goldtv.al:8000/live/MUSA/musa/4475.ts
+#EXTINF:-1,BG:BNT 2
+#EXTINF:0,http://goldtv.al:8000/live/MUSA/musa/4476.ts
+#EXTINF:-1,BG:Box TV
+#EXTINF:0,http://goldtv.al:8000/live/MUSA/musa/4473.ts
+#EXTINF:-1,BG:Bon Air
+#EXTINF:0,http://goldtv.al:8000/live/MUSA/musa/4490.ts
+#EXTINF:-1,BG:Baby TV
+#EXTINF:0,http://goldtv.al:8000/live/MUSA/musa/4492.ts
+#EXTINF:-1,BG:Animal Planet
+#EXTINF:0,http://goldtv.al:8000/live/MUSA/musa/4479.ts
+#EXTINF:-1,BG:100 Auto Moto TV
+#EXTINF:0,http://goldtv.al:8000/live/MUSA/musa/4493.ts
+#EXTINF:-1,BG:BTV Lady
+#EXTINF:0,http://goldtv.al:8000/live/MUSA/musa/3182.ts
+#EXTINF:-1,BG:TV7
+#EXTINF:0,http://goldtv.al:8000/live/MUSA/musa/3187.ts
+#EXTINF:-1,BG:Hobby Lov HD
+#EXTINF:0,http://goldtv.al:8000/live/MUSA/musa/3190.ts
+#EXTINF:-1,BG:Hobby TV  HD
+#EXTINF:0,http://goldtv.al:8000/live/MUSA/musa/3191.ts
+#EXTINF:-1,BG:Nova TV HD
+#EXTINF:0,http://goldtv.al:8000/live/MUSA/musa/3194.ts
+#EXTINF:-1,BG:F Plus
+#EXTINF:0,http://goldtv.al:8000/live/MUSA/musa/3196.ts
+#EXTINF:-1,BG:DSTV
+#EXTINF:0,http://goldtv.al:8000/live/MUSA/musa/3198.ts
+#EXTINF:-1,BG:BTV
+#EXTINF:0,http://goldtv.al:8000/live/MUSA/musa/3184.ts
+#EXTINF:-1,BG:BG:Spoartal
+#EXTINF:0,http://goldtv.al:8000/live/MUSA/musa/1004.ts
+#EXTINF:-1,BG:BG:Trace Sport Stars
+#EXTINF:0,http://goldtv.al:8000/live/MUSA/musa/3208.ts
+#EXTINF:-1,BG:Eurosport 1
+#EXTINF:0,http://goldtv.al:8000/live/MUSA/musa/3206.ts
+#EXTINF:-1,BG:Eurosport 2
+#EXTINF:0,http://goldtv.al:8000/live/MUSA/musa/3205.ts
+#EXTINF:-1,BG:Sport Plus
+#EXTINF:0,http://goldtv.al:8000/live/MUSA/musa/3211.ts
+#EXTINF:-1,BG:Diema Sport 1
+#EXTINF:0,http://goldtv.al:8000/live/MUSA/musa/1006.ts
+#EXTINF:-1,BG:Diema Sport 2
+#EXTINF:0,http://goldtv.al:8000/live/MUSA/musa/1005.ts
+#EXTINF:-1,BG:Nova Sport
+#EXTINF:0,http://goldtv.al:8000/live/MUSA/musa/3209.ts
+#EXTINF:-1,===KANALA TURKE===
+#EXTINF:0,#EXTM3U
+#
+#EXTINF:0,#EXTINF:-1,EX-YU
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/201.ts
+#EXTINF:0,#EXTINF:-1,Cinemax
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/834.ts
+#EXTINF:0,#EXTINF:-1,Cinestar 2
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/833.ts
+#EXTINF:0,#EXTINF:-1,Cinestar Premiere
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/832.ts
+#EXTINF:0,#EXTINF:-1,HBO Comedy
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/831.ts
+#EXTINF:0,#EXTINF:-1,HBO Adria
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/830.ts
+#EXTINF:0,#EXTINF:-1,Sport Klub 1
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/101.ts
+#EXTINF:0,#EXTINF:-1,Sport Klub 2
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/102.ts
+#EXTINF:0,#EXTINF:-1,Sport Klub 3
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/103.ts
+#EXTINF:0,#EXTINF:-1,Arena Sport 1 HD
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/62.ts
+#EXTINF:0,#EXTINF:-1,Arena Sport 2 HD
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/63.ts
+#EXTINF:0,#EXTINF:-1,Arena Sport 3 HD
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/171.ts
+#EXTINF:0,#EXTINF:-1,Arena Sport 4 HD
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/64.ts
+#EXTINF:0,#EXTINF:-1,Arena Sport 5 HD
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/816.ts
+#EXTINF:0,#EXTINF:-1,TRT  6
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/805.ts
+#EXTINF:0,#EXTINF:-1,ATV
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/815.ts
+#EXTINF:0,#EXTINF:-1,TRT HD
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/186.ts
+#EXTINF:0,#EXTINF:-1,Kanal D HD Turk
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/187.ts
+#EXTINF:0,#EXTINF:-1,TRT Muzik
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/80.ts
+#EXTINF:0,#EXTINF:-1,Star Tv Turk
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/77.ts
+#EXTINF:0,#EXTINF:-1,Show Tv Turk
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/78.ts
+#EXTINF:0,#EXTINF:-1,TR
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1347.ts
+#EXTINF:0,#EXTINF:-1,TR
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1367.ts
+#EXTINF:0,#EXTINF:-1,TR
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1369.ts
+#EXTINF:0,#EXTINF:-1,TR
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1352.ts
+#EXTINF:0,#EXTINF:-1,TR
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1378.ts
+#EXTINF:0,#EXTINF:-1,TR
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1364.ts
+#EXTINF:0,#EXTINF:-1,Power HD
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/234.ts
+#EXTINF:0,#EXTINF:-1,PowerTurk HD
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/184.ts
+#EXTINF:0,#EXTINF:-1,TR
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1354.ts
+#EXTINF:0,#EXTINF:-1,TR
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1353.ts
+#EXTINF:0,#EXTINF:-1,TR
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1355.ts
+#EXTINF:0,#EXTINF:-1,HABERTURK HD
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/804.ts
+#EXTINF:0,#EXTINF:-1,Lig Tv 1
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/209.ts
+#EXTINF:0,#EXTINF:-1,Lig tv 2
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/79.ts
+#EXTINF:0,#EXTINF:-1,Lig tv 3
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/182.ts
+#EXTINF:0,#EXTINF:-1,TR
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1344.ts
+#EXTINF:0,#EXTINF:-1,TR
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1345.ts
+#EXTINF:0,#EXTINF:-1,TR
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1346.ts
+#EXTINF:0,#EXTINF:-1,NTV SPORT TR
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/835.ts
+#EXTINF:0,#EXTINF:-1,TR
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1348.ts
+#EXTINF:0,#EXTINF:-1,TR
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1349.ts
+#EXTINF:0,#EXTINF:-1,TR
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1365.ts
+#EXTINF:0,#EXTINF:-1,TR
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1368.ts
+#EXTINF:0,#EXTINF:-1,TR DiGiMAX ANIMASYON HD
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1350.ts
+#EXTINF:0,#EXTINF:-1,TR
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1389.ts
+#EXTINF:0,#EXTINF:-1,TR
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1356.ts
+#EXTINF:0,#EXTINF:-1,Salon 2
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1362.ts
+#EXTINF:0,#EXTINF:-1,TR- SineMAX_Nostalgia_HD
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1379.ts
+#EXTINF:0,#EXTINF:-1,TR
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1357.ts
+#EXTINF:0,#EXTINF:-1,TR
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1366.ts
+#EXTINF:0,#EXTINF:-1,TR
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1387.ts
+#EXTINF:0,#EXTINF:-1,TR
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1384.ts
+#EXTINF:0,#EXTINF:-1,TR
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1383.ts
+#EXTINF:0,#EXTINF:-1,TR
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1351.ts
+#EXTINF:0,#EXTINF:-1,Salon 1
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1363.ts
+#EXTINF:0,#EXTINF:-1,TR DIGIMAX HD
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1358.ts
+#EXTINF:0,#EXTINF:-1,KANAL 7 HD
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1360.ts
+#EXTINF:0,#EXTINF:-1,Salon 3
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1361.ts
+#EXTINF:0,#EXTINF:-1,IDMAN TV
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1359.ts
+#EXTINF:0,#EXTINF:-1,TR
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1373.ts
+#EXTINF:0,#EXTINF:-1,TR
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1374.ts
+#EXTINF:0,#EXTINF:-1,TR
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1375.ts
+#EXTINF:0,#EXTINF:-1,TR
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1376.ts
+#EXTINF:0,#EXTINF:-1,TR
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1377.ts
+#EXTINF:0,#EXTINF:-1,TR- SineMAX_Fear_HD
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1388.ts
+#EXTINF:0,#EXTINF:-1,TR VIXX TV KOMEDI
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1372.ts
+#EXTINF:0,#EXTINF:-1,TR
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1371.ts
+#EXTINF:0,#EXTINF:-1,TR
+#EXTINF:-1,===KANALA GREECE====
+#EXTINF:0,#EXTM3U
+#
+#EXTINF:0,#EXTINF:-1,Mega By www.iptv4free.com
+http://iptv.nbrz.ru:9705/live/JusufErolzsj/SuZFFblanka/137.ts
+#EXTINF:0,#EXTINF:-1,Star (GR)
+http://iptv.nbrz.ru:9705/live/JusufErolzsj/SuZFFblanka/83.ts
+#EXTINF:0,#EXTINF:-1,Alpha (GR) By www.iptv4free.com
+http://iptv.nbrz.ru:9705/live/JusufErolzsj/SuZFFblanka/84.ts
+#EXTINF:0,#EXTINF:-1,E ! gr
+http://iptv.nbrz.ru:9705/live/JusufErolzsj/SuZFFblanka/119.ts
+#EXTINF:0,#EXTINF:-1,Nea gr
+http://iptv.nbrz.ru:9705/live/JusufErolzsj/SuZFFblanka/82.ts
+#EXTINF:0,#EXTINF:-1,ERT 1 By www.iptv4free.com
+http://iptv.nbrz.ru:9705/live/JusufErolzsj/SuZFFblanka/179.ts
+#EXTINF:0,#EXTINF:-1,Ert 2 By www.iptv4free.com
+http://iptv.nbrz.ru:9705/live/JusufErolzsj/SuZFFblanka/778.ts
+#EXTINF:0,#EXTINF:-1,Ant 1 (GR)
+http://iptv.nbrz.ru:9705/live/JusufErolzsj/SuZFFblanka/152.ts
+#EXTINF:0,#EXTINF:-1,Nickelodeon GR
+http://iptv.nbrz.ru:9705/live/JusufErolzsj/SuZFFblanka/225.ts
+#EXTINF:0,#EXTINF:-1,Sky GR
+http://iptv.nbrz.ru:9705/live/JusufErolzsj/SuZFFblanka/777.ts
+#EXTINF:0,#EXTINF:-1,Music Greek
+http://iptv.nbrz.ru:9705/live/JusufErolzsj/SuZFFblanka/836.ts
+#EXTINF:0,#EXTINF:-1,Mad (GR)
+http://iptv.nbrz.ru:9705/live/JusufErolzsj/SuZFFblanka/185.ts
+#EXTINF:0,#EXTINF:-1,TV 100
+http://iptv.nbrz.ru:9705/live/JusufErolzsj/SuZFFblanka/829.ts
+#EXTINF:0,#EXTINF:-1,Nr 1 Channel By www.iptv4free.com
+http://iptv.nbrz.ru:9705/live/JusufErolzsj/SuZFFblanka/808.ts
+#EXTINF:0,#EXTINF:-1,NT1
+http://iptv.nbrz.ru:9705/live/JusufErolzsj/SuZFFblanka/806.ts
+#EXTINF:0,#EXTINF:-1,TRT  6
+http://iptv.nbrz.ru:9705/live/JusufErolzsj/SuZFFblanka/805.ts
+#EXTINF:0,#EXTINF:-1,ATV
+http://iptv.nbrz.ru:9705/live/JusufErolzsj/SuZFFblanka/815.ts
+#EXTINF:0,#EXTINF:-1,* * * * * * * * * * GREECE * * * * * * * * * * By www.iptv4free.com
+http://s1.ukhdtv.com:7860/live/nomi/nomi/944.ts
+#EXTINF:0,#EXTINF:-1,GR MTV GREECE
+http://s1.ukhdtv.com:7860/live/nomi/nomi/1435.ts
+#EXTINF:0,#EXTINF:-1,GR VOULI
+http://s1.ukhdtv.com:7860/live/nomi/nomi/1436.ts
+#EXTINF:0,#EXTINF:-1,GR Star
+http://s1.ukhdtv.com:7860/live/nomi/nomi/1437.ts
+#EXTINF:0,#EXTINF:-1,GR Skai By www.iptv4free.com
+http://s1.ukhdtv.com:7860/live/nomi/nomi/1438.ts
+#EXTINF:0,#EXTINF:-1,GR SBC
+http://s1.ukhdtv.com:7860/live/nomi/nomi/1439.ts
+#EXTINF:0,#EXTINF:-1,GR SAMIAKI TV
+http://s1.ukhdtv.com:7860/live/nomi/nomi/1440.ts
+#EXTINF:0,#EXTINF:-1,GR NERIT
+http://s1.ukhdtv.com:7860/live/nomi/nomi/1441.ts
+#EXTINF:0,#EXTINF:-1,GR NEA TV By www.iptv4free.com
+http://s1.ukhdtv.com:7860/live/nomi/nomi/1442.ts
+#EXTINF:0,#EXTINF:-1,GR KONTRA
+http://s1.ukhdtv.com:7860/live/nomi/nomi/1443.ts
+#EXTINF:0,#EXTINF:-1,GR EXTRA
+http://s1.ukhdtv.com:7860/live/nomi/nomi/1444.ts
+#EXTINF:0,#EXTINF:-1,GR ERT3
+http://s1.ukhdtv.com:7860/live/nomi/nomi/1445.ts
+#EXTINF:0,#EXTINF:-1,GR ERT2
+http://s1.ukhdtv.com:7860/live/nomi/nomi/1446.ts
+#EXTINF:0,#EXTINF:-1,GR ERT1
+http://s1.ukhdtv.com:7860/live/nomi/nomi/1447.ts
+#EXTINF:0,#EXTINF:-1,GR ART
+http://s1.ukhdtv.com:7860/live/nomi/nomi/1448.ts
+#EXTINF:0,#EXTINF:-1,GR ERT HD
+http://s1.ukhdtv.com:7860/live/nomi/nomi/1449.ts
+#EXTINF:0,#EXTINF:-1,GR Star Delay
+http://s1.ukhdtv.com:7860/live/nomi/nomi/1450.ts
+#EXTINF:0,#EXTINF:-1,GR EXTRA 3
+http://s1.ukhdtv.com:7860/live/nomi/nomi/1451.ts
+#EXTINF:0,#EXTINF:-1,GR 4E
+http://s1.ukhdtv.com:7860/live/nomi/nomi/1452.ts
+#EXTINF:0,#EXTINF:-1,GR: Epsilon
+http://s1.ukhdtv.com:7860/live/nomi/nomi/931.ts
+#EXTINF:0,#EXTINF:-1,GR: Mega
+http://s1.ukhdtv.com:7860/live/nomi/nomi/933.ts
+#EXTINF:0,#EXTINF:-1,GR: Makedonia By www.iptv4free.com
+http://s1.ukhdtv.com:7860/live/nomi/nomi/934.ts
+#EXTINF:0,#EXTINF:-1,GR: Mad Cy
+http://s1.ukhdtv.com:7860/live/nomi/nomi/935.ts
+#EXTINF:0,#EXTINF:-1,GR: Aigaio
+http://s1.ukhdtv.com:7860/live/nomi/nomi/936.ts
+#EXTINF:0,#EXTINF:-1,GR: KONTRA
+http://s1.ukhdtv.com:7860/live/nomi/nomi/937.ts
+#EXTINF:0,#EXTINF:-1,GR: Omega TV
+http://s1.ukhdtv.com:7860/live/nomi/nomi/938.ts
+#EXTINF:0,#EXTINF:-1,GR: Antena 1
+http://s1.ukhdtv.com:7860/live/nomi/nomi/939.ts
+#EXTINF:0,#EXTINF:-1,GR: ZOUGLA TV
+http://s1.ukhdtv.com:7860/live/nomi/nomi/940.ts
+#EXTINF:0,#EXTINF:-1,GR: Ant1
+http://s1.ukhdtv.com:7860/live/nomi/nomi/942.ts
+#EXTINF:0,#EXTINF:-1,GR: Alpha By www.iptv4free.com
+http://s1.ukhdtv.com:7860/live/nomi/nomi/943.ts
+#EXTINF:0,http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1398.ts
+#EXTINF:-1,ERT 1
+#EXTINF:0,http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/179.ts
+#EXTINF:-1,Ert 2
+#EXTINF:0,http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/778.ts
+#EXTINF:-1,EPT3
+#EXTINF:0,http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1386.ts
+#EXTINF:-1,Mega
+#EXTINF:0,http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/137.ts
+#EXTINF:-1,Star (GR)
+#EXTINF:0,http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/83.ts
+#EXTINF:-1,Alpha (GR)
+#EXTINF:0,http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/84.ts
+#EXTINF:-1,E ! gr
+#EXTINF:0,http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/119.ts
+#EXTINF:-1,GR
+#EXTINF:0,http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1310.ts
+#EXTINF:-1,CAPITAL
+#EXTINF:0,http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1725.ts
+#EXTINF:-1,APT
+#EXTINF:0,http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1724.ts
+#EXTINF:-1,IDX GR
+#EXTINF:0,http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1723.ts
+#EXTINF:-1,SCIENCE GR
+#EXTINF:0,http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1722.ts
+#EXTINF:-1,Nea gr
+#EXTINF:0,http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/82.ts
+#EXTINF:-1,Ant 1 (GR)
+#EXTINF:0,http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/152.ts
+#EXTINF:-1,Nickelodeon GR
+#EXTINF:0,http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/225.ts
+#EXTINF:-1,Sky GR
+#EXTINF:0,http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/777.ts
+#EXTINF:-1,Music Greek
+#EXTINF:0,http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/836.ts
+#EXTINF:-1,Mad (GR)
+#EXTINF:0,http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/185.ts
+#EXTINF:-1,TV 100
+#EXTINF:0,http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/829.ts
+#EXTINF:-1,Nr 1 Channel
+#EXTINF:0,http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/808.ts
+#EXTINF:-1,PLUS GR
+#EXTINF:0,http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1385.ts
+#EXTINF:-1,ANIMAL PLANET GR
+#EXTINF:0,http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1305.ts
+#EXTINF:-1,NT1
+#EXTINF:0,http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/806.ts
+#EXTINF:-1,===KANALA ROMANIS===
+#EXTINF:0,#EXTM3U
+#
+#EXTINF:0,#EXTINF:-1,RO: VIASAT NATURE By www.iptv4free.com
+http://cp.dmbshare.net:8000/live/rangel/rangel/8279.ts
+#EXTINF:0,#EXTINF:-1,RO: TVR 3
+http://cp.dmbshare.net:8000/live/rangel/rangel/8278.ts
+#EXTINF:0,#EXTINF:-1,RO: TVR 2 By www.iptv4free.com
+http://cp.dmbshare.net:8000/live/rangel/rangel/8277.ts
+#EXTINF:0,#EXTINF:-1,RO: TVR 1
+http://cp.dmbshare.net:8000/live/rangel/rangel/8276.ts
+#EXTINF:0,#EXTINF:-1,RO: TV1000
+http://cp.dmbshare.net:8000/live/rangel/rangel/8275.ts
+#EXTINF:0,#EXTINF:-1,RO: Travel Channel
+http://cp.dmbshare.net:8000/live/rangel/rangel/8274.ts
+#EXTINF:0,#EXTINF:-1,RO: ROMANIA TV
+http://cp.dmbshare.net:8000/live/rangel/rangel/8273.ts
+#EXTINF:0,#EXTINF:-1,RO: Realitatea Tv
+http://cp.dmbshare.net:8000/live/rangel/rangel/8272.ts
+#EXTINF:0,#EXTINF:-1,RO: ProTv Chisinau
+http://cp.dmbshare.net:8000/live/rangel/rangel/8271.ts
+#EXTINF:0,#EXTINF:-1,RO: Prima Tv By www.iptv4free.com
+http://cp.dmbshare.net:8000/live/rangel/rangel/8270.ts
+#EXTINF:0,#EXTINF:-1,RO: Nickelodeon
+http://cp.dmbshare.net:8000/live/rangel/rangel/8269.ts
+#EXTINF:0,#EXTINF:-1,RO: National Geographic
+http://cp.dmbshare.net:8000/live/rangel/rangel/8268.ts
+#EXTINF:0,#EXTINF:-1,RO: Nat Geo Wild
+http://cp.dmbshare.net:8000/live/rangel/rangel/8267.ts
+#EXTINF:0,#EXTINF:-1,RO: Minimax
+http://cp.dmbshare.net:8000/live/rangel/rangel/8266.ts
+#EXTINF:0,#EXTINF:-1,RO: Megamax
+http://cp.dmbshare.net:8000/live/rangel/rangel/8265.ts
+#EXTINF:0,#EXTINF:-1,RO: Kanal D
+http://cp.dmbshare.net:8000/live/rangel/rangel/8264.ts
+#EXTINF:0,#EXTINF:-1,RO: History Channel
+http://cp.dmbshare.net:8000/live/rangel/rangel/8263.ts
+#EXTINF:0,#EXTINF:-1,RO: HBO 3
+http://cp.dmbshare.net:8000/live/rangel/rangel/8262.ts
+#EXTINF:0,#EXTINF:-1,RO: Eurosport 2
+http://cp.dmbshare.net:8000/live/rangel/rangel/8261.ts
+#EXTINF:0,#EXTINF:-1,RO: Eurosport
+http://cp.dmbshare.net:8000/live/rangel/rangel/8260.ts
+#EXTINF:0,#EXTINF:-1,RO: DOLCE SPORT 2
+http://cp.dmbshare.net:8000/live/rangel/rangel/8259.ts
+#EXTINF:0,#EXTINF:-1,RO: DOLCE SPORT 1
+http://cp.dmbshare.net:8000/live/rangel/rangel/8258.ts
+#EXTINF:0,#EXTINF:-1,RO: Disney Junior
+http://cp.dmbshare.net:8000/live/rangel/rangel/8257.ts
+#EXTINF:0,#EXTINF:-1,RO: DIGI WORLD
+http://cp.dmbshare.net:8000/live/rangel/rangel/8256.ts
+#EXTINF:0,#EXTINF:-1,RO: DIGI SPORT 4
+http://cp.dmbshare.net:8000/live/rangel/rangel/8255.ts
+#EXTINF:0,#EXTINF:-1,RO: DIGI SPORT 3
+http://cp.dmbshare.net:8000/live/rangel/rangel/8254.ts
+#EXTINF:0,#EXTINF:-1,RO: DIGI SPORT 2
+http://cp.dmbshare.net:8000/live/rangel/rangel/8253.ts
+#EXTINF:0,#EXTINF:-1,RO: DIGI SPORT 1
+http://cp.dmbshare.net:8000/live/rangel/rangel/8252.ts
+#EXTINF:0,#EXTINF:-1,RO: DIGI LIFE
+http://cp.dmbshare.net:8000/live/rangel/rangel/8251.ts
+#EXTINF:0,#EXTINF:-1,RO: Digi Animal World
+http://cp.dmbshare.net:8000/live/rangel/rangel/8250.ts
+#EXTINF:0,#EXTINF:-1,RO: DIGI 24
+http://cp.dmbshare.net:8000/live/rangel/rangel/8249.ts
+#EXTINF:0,#EXTINF:-1,RO: B1 Tv
+http://cp.dmbshare.net:8000/live/rangel/rangel/8248.ts
+#EXTINF:0,#EXTINF:-1,RO: Acasa in Moldova
+http://cp.dmbshare.net:8000/live/rangel/rangel/8247.ts
+#EXTINF:0,#EXTINF:-1,RO:TVR 1
+http://149.202.203.121:7022/live/1234/1234/3553.ts
+#EXTINF:0,#EXTINF:-1,RO: Viasat Nature
+http://149.202.203.121:7022/live/1234/1234/3604.ts
+#EXTINF:0,#EXTINF:-1,RO: Viasat History
+http://149.202.203.121:7022/live/1234/1234/3603.ts
+#EXTINF:0,#EXTINF:-1,RO: U TV
+http://149.202.203.121:7022/live/1234/1234/3581.ts
+#EXTINF:0,#EXTINF:-1,RO: TVR 2
+http://149.202.203.121:7022/live/1234/1234/3554.ts
+#EXTINF:0,#EXTINF:-1,RO: TV5 MONDE
+http://149.202.203.121:7022/live/1234/1234/3582.ts
+#EXTINF:0,#EXTINF:-1,RO: TV1000
+http://149.202.203.121:7022/live/1234/1234/3577.ts
+#EXTINF:0,#EXTINF:-1,RO: Trinitas
+http://149.202.203.121:7022/live/1234/1234/3583.ts
+#EXTINF:0,#EXTINF:-1,RO: TNT
+http://149.202.203.121:7022/live/1234/1234/3584.ts
+#EXTINF:0,#EXTINF:-1,RO: Taraf Tv
+http://149.202.203.121:7022/live/1234/1234/3590.ts
+#EXTINF:0,#EXTINF:-1,RO: Sport.ro
+http://149.202.203.121:7022/live/1234/1234/3606.ts
+#EXTINF:0,#EXTINF:-1,RO: Romania Tv
+http://149.202.203.121:7022/live/1234/1234/3564.ts
+#EXTINF:0,#EXTINF:-1,RO: Realitatea Tv
+http://149.202.203.121:7022/live/1234/1234/3565.ts
+#EXTINF:0,#EXTINF:-1,RO: ProTV
+http://149.202.203.121:7022/live/1234/1234/3556.ts
+#EXTINF:0,#EXTINF:-1,RO: ProCinema
+http://149.202.203.121:7022/live/1234/1234/3570.ts
+#EXTINF:0,#EXTINF:-1,RO: Prima Tv
+http://149.202.203.121:7022/live/1234/1234/3561.ts
+#EXTINF:0,#EXTINF:-1,RO: Paramount Channel
+http://149.202.203.121:7022/live/1234/1234/3578.ts
+#EXTINF:0,#EXTINF:-1,RO: Neptun Tv
+http://149.202.203.121:7022/live/1234/1234/3567.ts
+#EXTINF:0,#EXTINF:-1,RO: National TV
+http://149.202.203.121:7022/live/1234/1234/3566.ts
+#EXTINF:0,#EXTINF:-1,RO: National Geographic
+http://149.202.203.121:7022/live/1234/1234/3601.ts
+#EXTINF:0,#EXTINF:-1,RO: Nat Geo Wild
+http://149.202.203.121:7022/live/1234/1234/3602.ts
+#EXTINF:0,#EXTINF:-1,RO: Music Channe hu
+http://149.202.203.121:7022/live/1234/1234/3592.ts
+#EXTINF:0,#EXTINF:-1,RO: Minimax
+http://149.202.203.121:7022/live/1234/1234/3594.ts
+#EXTINF:0,#EXTINF:-1,RO: Megamax
+http://149.202.203.121:7022/live/1234/1234/3595.ts
+#EXTINF:0,#EXTINF:-1,RO: Look Tv
+http://149.202.203.121:7022/live/1234/1234/3609.ts
+#EXTINF:0,#EXTINF:-1,RO: Look Plus
+http://149.202.203.121:7022/live/1234/1234/3610.ts
+#EXTINF:0,#EXTINF:-1,RO: KISS TV
+http://149.202.203.121:7022/live/1234/1234/3591.ts
+#EXTINF:0,#EXTINF:-1,RO: Kanal D
+http://149.202.203.121:7022/live/1234/1234/3557.ts
+#EXTINF:0,#EXTINF:-1,RO: History Channel
+http://149.202.203.121:7022/live/1234/1234/3600.ts
+#EXTINF:0,#EXTINF:-1,RO: HBO Romania
+http://149.202.203.121:7022/live/1234/1234/3574.ts
+#EXTINF:0,#EXTINF:-1,RO: HBO 3
+http://149.202.203.121:7022/live/1234/1234/3576.ts
+#EXTINF:0,#EXTINF:-1,RO: HBO 2
+http://149.202.203.121:7022/live/1234/1234/3575.ts
+#EXTINF:0,#EXTINF:-1,RO: Happy Channel
+http://149.202.203.121:7022/live/1234/1234/3563.ts
+#EXTINF:0,#EXTINF:-1,RO: Fishing & Hunting
+http://149.202.203.121:7022/live/1234/1234/3599.ts
+#EXTINF:0,#EXTINF:-1,RO: Favorit Tv
+http://149.202.203.121:7022/live/1234/1234/3605.ts
+#EXTINF:0,#EXTINF:-1,RO: Eurosport 2
+http://149.202.203.121:7022/live/1234/1234/3608.ts
+#EXTINF:0,#EXTINF:-1,RO: Eurosport
+http://149.202.203.121:7022/live/1234/1234/3607.ts
+#EXTINF:0,#EXTINF:-1,RO: Etno Tv
+http://149.202.203.121:7022/live/1234/1234/3585.ts
+#EXTINF:0,#EXTINF:-1,RO: Disney Junior
+http://149.202.203.121:7022/live/1234/1234/3593.ts
+#EXTINF:0,#EXTINF:-1,RO: Digi World
+http://149.202.203.121:7022/live/1234/1234/3597.ts
+#EXTINF:0,#EXTINF:-1,RO: Digi Sport 4
+http://149.202.203.121:7022/live/1234/1234/3614.ts
+#EXTINF:0,#EXTINF:-1,RO: Digi Sport 3
+http://149.202.203.121:7022/live/1234/1234/3613.ts
+#EXTINF:0,#EXTINF:-1,RO: Digi Sport 2
+http://149.202.203.121:7022/live/1234/1234/3612.ts
+#EXTINF:0,#EXTINF:-1,RO: Digi Sport 1
+http://149.202.203.121:7022/live/1234/1234/3611.ts
+#EXTINF:0,#EXTINF:-1,RO: Digi Life
+http://149.202.203.121:7022/live/1234/1234/3596.ts
+#EXTINF:0,#EXTINF:-1,RO: Digi Film
+http://149.202.203.121:7022/live/1234/1234/3573.ts
+#EXTINF:0,#EXTINF:-1,RO: Digi Animal World
+http://149.202.203.121:7022/live/1234/1234/3598.ts
+#EXTINF:0,#EXTINF:-1,RO: DIGI 24 Galati
+http://149.202.203.121:7022/live/1234/1234/3586.ts
+#EXTINF:0,#EXTINF:-1,RO: DIGI 24 Craiova
+http://149.202.203.121:7022/live/1234/1234/3587.ts
+#EXTINF:0,#EXTINF:-1,RO: Digi 24
+http://149.202.203.121:7022/live/1234/1234/3555.ts
+#EXTINF:0,#EXTINF:-1,RO: Crime & Investigation
+http://149.202.203.121:7022/live/1234/1234/3615.ts
+#EXTINF:0,#EXTINF:-1,RO: Cinemax Ro
+http://149.202.203.121:7022/live/1234/1234/3571.ts
+#EXTINF:0,#EXTINF:-1,RO: Cinemax 2
+http://149.202.203.121:7022/live/1234/1234/3572.ts
+#EXTINF:0,#EXTINF:-1,RO: Boomerang
+http://149.202.203.121:7022/live/1234/1234/3569.ts
+#EXTINF:0,#EXTINF:-1,RO: B1 Tv
+http://149.202.203.121:7022/live/1234/1234/3562.ts
+#EXTINF:0,#EXTINF:-1,RO: AXN White
+http://149.202.203.121:7022/live/1234/1234/3580.ts
+#EXTINF:0,#EXTINF:-1,RO: AXN Romania
+http://149.202.203.121:7022/live/1234/1234/3579.ts
+#EXTINF:0,#EXTINF:-1,RO: Antena Stars
+http://149.202.203.121:7022/live/1234/1234/3560.ts
+#EXTINF:0,#EXTINF:-1,RO: Antena 3
+http://149.202.203.121:7022/live/1234/1234/3559.ts
+#EXTINF:0,#EXTINF:-1,RO: Antena 1
+http://149.202.203.121:7022/live/1234/1234/3558.ts
+#EXTINF:0,#EXTINF:-1,RO: Agro Tv
+http://149.202.203.121:7022/live/1234/1234/3588.ts
+#EXTINF:0,#EXTINF:-1,RO: Acasa TV
+http://149.202.203.121:7022/live/1234/1234/3568.ts
+#EXTINF:0,#EXTINF:-1,RO: 1 Music Channel
+http://149.202.203.121:7022/live/1234/1234/3589.ts
+#EXTINF:0,#EXTINF:-1,-------- Romani --------- By www.iptv4free.com
+http://163.172.6.8:8000/live/1b88MikjAu/fEm6F4FYrf/1746.ts
+#EXTINF:0,#EXTINF:-1,RO: Digi Sport 1
+http://163.172.6.8:8000/live/1b88MikjAu/fEm6F4FYrf/1717.ts
+#EXTINF:0,#EXTINF:-1,RO: Digi Sport 2
+http://163.172.6.8:8000/live/1b88MikjAu/fEm6F4FYrf/1718.ts
+#EXTINF:0,#EXTINF:-1,RO: Digi Sport 3
+http://163.172.6.8:8000/live/1b88MikjAu/fEm6F4FYrf/1719.ts
+#EXTINF:0,#EXTINF:-1,RO: Digi Sport 4
+http://163.172.6.8:8000/live/1b88MikjAu/fEm6F4FYrf/1720.ts
+#EXTINF:0,#EXTINF:-1,RO: Digi World RO
+http://163.172.6.8:8000/live/1b88MikjAu/fEm6F4FYrf/1705.ts
+#EXTINF:0,#EXTINF:-1,RO: Digi World
+http://163.172.6.8:8000/live/1b88MikjAu/fEm6F4FYrf/1686.ts
+#EXTINF:0,#EXTINF:-1,RO: Digi Film
+http://163.172.6.8:8000/live/1b88MikjAu/fEm6F4FYrf/1700.ts
+#EXTINF:0,#EXTINF:-1,RO: Digi Life By www.iptv4free.com
+http://163.172.6.8:8000/live/1b88MikjAu/fEm6F4FYrf/1722.ts
+#EXTINF:0,#EXTINF:-1,RO: Digi 24
+http://163.172.6.8:8000/live/1b88MikjAu/fEm6F4FYrf/1707.ts
+#EXTINF:0,#EXTINF:-1,RO: Eurosport
+http://163.172.6.8:8000/live/1b88MikjAu/fEm6F4FYrf/1706.ts
+#EXTINF:0,#EXTINF:-1,RO: Eurosport 2
+http://163.172.6.8:8000/live/1b88MikjAu/fEm6F4FYrf/1715.ts
+#EXTINF:0,#EXTINF:-1,RO: Antena 1
+http://163.172.6.8:8000/live/1b88MikjAu/fEm6F4FYrf/1698.ts
+#EXTINF:0,#EXTINF:-1,RO: Antena Stars
+http://163.172.6.8:8000/live/1b88MikjAu/fEm6F4FYrf/1697.ts
+#EXTINF:0,#EXTINF:-1,RO: Acasa TV
+http://163.172.6.8:8000/live/1b88MikjAu/fEm6F4FYrf/1721.ts
+#EXTINF:0,#EXTINF:-1,RO: Megamax
+http://163.172.6.8:8000/live/1b88MikjAu/fEm6F4FYrf/1690.ts
+#EXTINF:0,#EXTINF:-1,RO: Cinemax 2
+http://163.172.6.8:8000/live/1b88MikjAu/fEm6F4FYrf/1701.ts
+#EXTINF:0,#EXTINF:-1,RO: HBO 1
+http://163.172.6.8:8000/live/1b88MikjAu/fEm6F4FYrf/1725.ts
+#EXTINF:0,#EXTINF:-1,RO: HBO 2
+http://163.172.6.8:8000/live/1b88MikjAu/fEm6F4FYrf/1712.ts
+#EXTINF:0,#EXTINF:-1,RO: HBO 3 By www.iptv4free.com
+http://163.172.6.8:8000/live/1b88MikjAu/fEm6F4FYrf/1704.ts
+#EXTINF:0,#EXTINF:-1,RO: Prima
+http://163.172.6.8:8000/live/1b88MikjAu/fEm6F4FYrf/1684.ts
+#EXTINF:0,#EXTINF:-1,RO: Prima Love
+http://163.172.6.8:8000/live/1b88MikjAu/fEm6F4FYrf/1689.ts
+#EXTINF:0,#EXTINF:-1,RO: ProTV
+http://163.172.6.8:8000/live/1b88MikjAu/fEm6F4FYrf/1723.ts
+#EXTINF:0,#EXTINF:-1,RO: Pro Cinema
+http://163.172.6.8:8000/live/1b88MikjAu/fEm6F4FYrf/1724.ts
+#EXTINF:0,#EXTINF:-1,RO: Kanal D
+http://163.172.6.8:8000/live/1b88MikjAu/fEm6F4FYrf/1714.ts
+#EXTINF:0,#EXTINF:-1,RO: TVR 1
+http://163.172.6.8:8000/live/1b88MikjAu/fEm6F4FYrf/1693.ts
+#EXTINF:0,#EXTINF:-1,RO: TVR 2
+http://163.172.6.8:8000/live/1b88MikjAu/fEm6F4FYrf/1694.ts
+#EXTINF:0,#EXTINF:-1,RO: Crime & Investigation
+http://163.172.6.8:8000/live/1b88MikjAu/fEm6F4FYrf/1696.ts
+#EXTINF:0,#EXTINF:-1,RO: National Geographic
+http://163.172.6.8:8000/live/1b88MikjAu/fEm6F4FYrf/1726.ts
+#EXTINF:0,#EXTINF:-1,RO: History HD
+http://163.172.6.8:8000/live/1b88MikjAu/fEm6F4FYrf/1727.ts
+#EXTINF:0,#EXTINF:-1,RO: National TV
+http://163.172.6.8:8000/live/1b88MikjAu/fEm6F4FYrf/1685.ts
+#EXTINF:0,#EXTINF:-1,RO: TV TRWAM
+http://163.172.6.8:8000/live/1b88MikjAu/fEm6F4FYrf/1681.ts
+#EXTINF:0,#EXTINF:-1,RO: TV Asta
+http://163.172.6.8:8000/live/1b88MikjAu/fEm6F4FYrf/1683.ts
+#EXTINF:0,#EXTINF:-1,RO: Disney Junior By www.iptv4free.com
+http://163.172.6.8:8000/live/1b88MikjAu/fEm6F4FYrf/1716.ts
+#EXTINF:0,#EXTINF:-1,RO: Music Channe hu
+http://163.172.6.8:8000/live/1b88MikjAu/fEm6F4FYrf/1692.ts
+#EXTINF:0,#EXTINF:-1,RO: Tv Sud Est
+http://163.172.6.8:8000/live/1b88MikjAu/fEm6F4FYrf/1703.ts
+#EXTINF:0,#EXTINF:-1,RO: TeleMoldovaPlus
+http://163.172.6.8:8000/live/1b88MikjAu/fEm6F4FYrf/1702.ts
+#EXTINF:0,#EXTINF:-1,RO: Realtaea TV
+http://163.172.6.8:8000/live/1b88MikjAu/fEm6F4FYrf/1695.ts
+#EXTINF:0,#EXTINF:-1,RO: TeleM Iasi
+http://163.172.6.8:8000/live/1b88MikjAu/fEm6F4FYrf/1699.ts
+#EXTINF:0,#EXTINF:-1,RO: Retro
+http://163.172.6.8:8000/live/1b88MikjAu/fEm6F4FYrf/1688.ts
+#EXTINF:0,#EXTINF:-1,RO: Noe
+http://163.172.6.8:8000/live/1b88MikjAu/fEm6F4FYrf/1687.ts
+#EXTINF:0,#EXTINF:-1,RO: Nickelodeon
+http://163.172.6.8:8000/live/1b88MikjAu/fEm6F4FYrf/1682.ts
+#EXTINF:0,#EXTINF:-1,RO: Salajeanul TV
+http://163.172.6.8:8000/live/1b88MikjAu/fEm6F4FYrf/1691.ts
+#EXTINF:0,#EXTINF:-1,-------- Romani --------- By www.iptv4free.com
+http://ipsatpro.info:8000/live/1b88MikjAu/fEm6F4FYrf/1746.ts
+#EXTINF:0,#EXTINF:-1,RO: Digi Sport 1
+http://ipsatpro.info:8000/live/1b88MikjAu/fEm6F4FYrf/1717.ts
+#EXTINF:0,#EXTINF:-1,RO: Digi Sport 2
+http://ipsatpro.info:8000/live/1b88MikjAu/fEm6F4FYrf/1718.ts
+#EXTINF:0,#EXTINF:-1,RO: Digi Sport 3
+http://ipsatpro.info:8000/live/1b88MikjAu/fEm6F4FYrf/1719.ts
+#EXTINF:0,#EXTINF:-1,RO: Digi Sport 4
+http://ipsatpro.info:8000/live/1b88MikjAu/fEm6F4FYrf/1720.ts
+#EXTINF:0,#EXTINF:-1,RO: Digi World RO
+http://ipsatpro.info:8000/live/1b88MikjAu/fEm6F4FYrf/1705.ts
+#EXTINF:0,#EXTINF:-1,RO: Digi World
+http://ipsatpro.info:8000/live/1b88MikjAu/fEm6F4FYrf/1686.ts
+#EXTINF:0,#EXTINF:-1,RO: Digi Film
+http://ipsatpro.info:8000/live/1b88MikjAu/fEm6F4FYrf/1700.ts
+#EXTINF:0,#EXTINF:-1,RO: Digi Life
+http://ipsatpro.info:8000/live/1b88MikjAu/fEm6F4FYrf/1722.ts
+#EXTINF:0,#EXTINF:-1,RO: Digi 24
+http://ipsatpro.info:8000/live/1b88MikjAu/fEm6F4FYrf/1707.ts
+#EXTINF:0,#EXTINF:-1,RO: Eurosport
+http://ipsatpro.info:8000/live/1b88MikjAu/fEm6F4FYrf/1706.ts
+#EXTINF:0,#EXTINF:-1,RO: Eurosport 2 By www.iptv4free.com
+http://ipsatpro.info:8000/live/1b88MikjAu/fEm6F4FYrf/1715.ts
+#EXTINF:0,#EXTINF:-1,RO: Antena 1
+http://ipsatpro.info:8000/live/1b88MikjAu/fEm6F4FYrf/1698.ts
+#EXTINF:0,#EXTINF:-1,RO: Antena Stars
+http://ipsatpro.info:8000/live/1b88MikjAu/fEm6F4FYrf/1697.ts
+#EXTINF:0,#EXTINF:-1,RO: Acasa TV
+http://ipsatpro.info:8000/live/1b88MikjAu/fEm6F4FYrf/1721.ts
+#EXTINF:0,#EXTINF:-1,RO: Megamax
+http://ipsatpro.info:8000/live/1b88MikjAu/fEm6F4FYrf/1690.ts
+#EXTINF:0,#EXTINF:-1,RO: Cinemax 2 By www.iptv4free.com
+http://ipsatpro.info:8000/live/1b88MikjAu/fEm6F4FYrf/1701.ts
+#EXTINF:0,#EXTINF:-1,RO: HBO 1
+http://ipsatpro.info:8000/live/1b88MikjAu/fEm6F4FYrf/1725.ts
+#EXTINF:0,#EXTINF:-1,RO: HBO 2
+http://ipsatpro.info:8000/live/1b88MikjAu/fEm6F4FYrf/1712.ts
+#EXTINF:0,#EXTINF:-1,RO: HBO 3
+http://ipsatpro.info:8000/live/1b88MikjAu/fEm6F4FYrf/1704.ts
+#EXTINF:0,#EXTINF:-1,RO: Prima
+http://ipsatpro.info:8000/live/1b88MikjAu/fEm6F4FYrf/1684.ts
+#EXTINF:0,#EXTINF:-1,RO: Prima Love
+http://ipsatpro.info:8000/live/1b88MikjAu/fEm6F4FYrf/1689.ts
+#EXTINF:0,#EXTINF:-1,RO: ProTV
+http://ipsatpro.info:8000/live/1b88MikjAu/fEm6F4FYrf/1723.ts
+#EXTINF:0,#EXTINF:-1,RO: Pro Cinema By www.iptv4free.com
+http://ipsatpro.info:8000/live/1b88MikjAu/fEm6F4FYrf/1724.ts
+#EXTINF:0,#EXTINF:-1,RO: Kanal D
+http://ipsatpro.info:8000/live/1b88MikjAu/fEm6F4FYrf/1714.ts
+#EXTINF:0,#EXTINF:-1,RO: TVR 1
+http://ipsatpro.info:8000/live/1b88MikjAu/fEm6F4FYrf/1693.ts
+#EXTINF:0,#EXTINF:-1,RO: TVR 2
+http://ipsatpro.info:8000/live/1b88MikjAu/fEm6F4FYrf/1694.ts
+#EXTINF:0,#EXTINF:-1,RO: Crime & Investigation
+http://ipsatpro.info:8000/live/1b88MikjAu/fEm6F4FYrf/1696.ts
+#EXTINF:0,#EXTINF:-1,RO: National Geographic
+http://ipsatpro.info:8000/live/1b88MikjAu/fEm6F4FYrf/1726.ts
+#EXTINF:0,#EXTINF:-1,RO: History HD
+http://ipsatpro.info:8000/live/1b88MikjAu/fEm6F4FYrf/1727.ts
+#EXTINF:0,#EXTINF:-1,RO: National TV
+http://ipsatpro.info:8000/live/1b88MikjAu/fEm6F4FYrf/1685.ts
+#EXTINF:0,#EXTINF:-1,RO: TV TRWAM
+http://ipsatpro.info:8000/live/1b88MikjAu/fEm6F4FYrf/1681.ts
+#EXTINF:0,#EXTINF:-1,RO: TV Asta
+http://ipsatpro.info:8000/live/1b88MikjAu/fEm6F4FYrf/1683.ts
+#EXTINF:0,#EXTINF:-1,RO: Disney Junior
+http://ipsatpro.info:8000/live/1b88MikjAu/fEm6F4FYrf/1716.ts
+#EXTINF:0,#EXTINF:-1,RO: Music Channe hu
+http://ipsatpro.info:8000/live/1b88MikjAu/fEm6F4FYrf/1692.ts
+#EXTINF:0,#EXTINF:-1,RO: Tv Sud Est
+http://ipsatpro.info:8000/live/1b88MikjAu/fEm6F4FYrf/1703.ts
+#EXTINF:0,#EXTINF:-1,RO: TeleMoldovaPlus
+http://ipsatpro.info:8000/live/1b88MikjAu/fEm6F4FYrf/1702.ts
+#EXTINF:0,#EXTINF:-1,RO: Realtaea TV
+http://ipsatpro.info:8000/live/1b88MikjAu/fEm6F4FYrf/1695.ts
+#EXTINF:0,#EXTINF:-1,RO: TeleM Iasi
+http://ipsatpro.info:8000/live/1b88MikjAu/fEm6F4FYrf/1699.ts
+#EXTINF:0,#EXTINF:-1,RO: Retro
+http://ipsatpro.info:8000/live/1b88MikjAu/fEm6F4FYrf/1688.ts
+#EXTINF:0,#EXTINF:-1,RO: Noe
+http://ipsatpro.info:8000/live/1b88MikjAu/fEm6F4FYrf/1687.ts
+#EXTINF:0,#EXTINF:-1,RO: Nickelodeon
+http://ipsatpro.info:8000/live/1b88MikjAu/fEm6F4FYrf/1682.ts
+#EXTINF:0,#EXTINF:-1,RO: Salajeanul TV By www.iptv4free.com
+http://ipsatpro.info:8000/live/1b88MikjAu/fEm6F4FYrf/1691.ts
+#EXTINF:0,#EXTINF:-1,===KANALA ARABE===
+#EXTM3U
+#EXTINF:0,#
+#EXTINF:-1,AR
+#EXTINF:0,http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1585.ts
+#EXTINF:-1,AR
+#EXTINF:0,http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1586.ts
+#EXTINF:-1,AR
+#EXTINF:0,http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1587.ts
+#EXTINF:-1,beIN Sports HD 4
+#EXTINF:0,http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/773.ts
+#EXTINF:-1,AR
+#EXTINF:0,http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1054.ts
+#EXTINF:-1,AR
+#EXTINF:0,http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1055.ts
+#EXTINF:-1,AR
+#EXTINF:0,http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1056.ts
+#EXTINF:-1,Arabic
+#EXTINF:0,http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/885.ts
+#EXTINF:-1,AR
+#EXTINF:0,http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1575.ts
+#EXTINF:-1,AR
+#EXTINF:0,http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1576.ts
+#EXTINF:-1,AR
+#EXTINF:0,http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1577.ts
+#EXTINF:-1,AR
+#EXTINF:0,http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1578.ts
+#EXTINF:-1,AR
+#EXTINF:0,http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1579.ts
+#EXTINF:-1,AR
+#EXTINF:0,http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1580.ts
+#EXTINF:-1,AR
+#EXTINF:0,http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1581.ts
+#EXTINF:-1,AR
+#EXTINF:0,http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1582.ts
+#EXTINF:-1,AR
+#EXTINF:0,http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1583.ts
+#EXTINF:-1,AR
+#EXTINF:0,http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1584.ts
+#EXTINF:-1,FR
+#EXTINF:0,http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1342.ts
+#EXTINF:-1,FR
+#EXTINF:0,http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1343.ts
+#EXTINF:-1,FR_INFOSPORT_HD
+#EXTINF:0,http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1336.ts
+#EXTINF:-1,Bein Sport  1 HD FR
+#EXTINF:0,http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/194.ts
+#EXTINF:-1,Bein Sport  2 HD FR
+#EXTINF:0,http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/193.ts
+#EXTINF:-1,beIN Sports HD 3 FR
+#EXTINF:0,http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/724.ts
+#EXTINF:-1,===KANALA POLENIS===
+#EXTINF:0,#EXTM3U
+#
+#EXTINF:0,#EXTINF:-1,*****~~•POLAND•~~***** By www.iptv4free.com
+http://topiptv.net:5890/live/wGNXBdG71N/v8hIWSr92B/2369.ts
+#EXTINF:0,#EXTINF:-1,PL:TVP1
+http://topiptv.net:5890/live/wGNXBdG71N/v8hIWSr92B/2370.ts
+#EXTINF:0,#EXTINF:-1,PL: Polonia 1
+http://topiptv.net:5890/live/wGNXBdG71N/v8hIWSr92B/2396.ts
+#EXTINF:0,#EXTINF:-1,PL: Polsat By www.iptv4free.com
+http://topiptv.net:5890/live/wGNXBdG71N/v8hIWSr92B/2395.ts
+#EXTINF:0,#EXTINF:-1,PL: Polsat 2
+http://topiptv.net:5890/live/wGNXBdG71N/v8hIWSr92B/2394.ts
+#EXTINF:0,#EXTINF:-1,PL: Polsat Play
+http://topiptv.net:5890/live/wGNXBdG71N/v8hIWSr92B/2388.ts
+#EXTINF:0,#EXTINF:-1,PL: Polsat News
+http://topiptv.net:5890/live/wGNXBdG71N/v8hIWSr92B/2389.ts
+#EXTINF:0,#EXTINF:-1,PL: Polsat Jim Jam
+http://topiptv.net:5890/live/wGNXBdG71N/v8hIWSr92B/2390.ts
+#EXTINF:0,#EXTINF:-1,POL: Polsat Romans
+http://topiptv.net:5890/live/wGNXBdG71N/v8hIWSr92B/2387.ts
+#EXTINF:0,#EXTINF:-1,PL: Polsat HD
+http://topiptv.net:5890/live/wGNXBdG71N/v8hIWSr92B/2391.ts
+#EXTINF:0,#EXTINF:-1,PL: Polsat Film
+http://topiptv.net:5890/live/wGNXBdG71N/v8hIWSr92B/2392.ts
+#EXTINF:0,#EXTINF:-1,PL: Polsat Cafe By www.iptv4free.com
+http://topiptv.net:5890/live/wGNXBdG71N/v8hIWSr92B/2393.ts
+#EXTINF:0,#EXTINF:-1,POL: Filmbox Action
+http://topiptv.net:5890/live/wGNXBdG71N/v8hIWSr92B/2411.ts
+#EXTINF:0,#EXTINF:-1,PL: Filmbox Premium
+http://topiptv.net:5890/live/wGNXBdG71N/v8hIWSr92B/2409.ts
+#EXTINF:0,#EXTINF:-1,PL: Filmbox Family
+http://topiptv.net:5890/live/wGNXBdG71N/v8hIWSr92B/2410.ts
+#EXTINF:0,#EXTINF:-1,PL: Filmbox
+http://topiptv.net:5890/live/wGNXBdG71N/v8hIWSr92B/2412.ts
+#EXTINF:0,#EXTINF:-1,POL: CANAL  SERIALE HD
+http://topiptv.net:5890/live/wGNXBdG71N/v8hIWSr92B/2421.ts
+#EXTINF:0,#EXTINF:-1,POL: CANAL  FILM HD
+http://topiptv.net:5890/live/wGNXBdG71N/v8hIWSr92B/2422.ts
+#EXTINF:0,#EXTINF:-1,POL: CANAL  FAMILY HD
+http://topiptv.net:5890/live/wGNXBdG71N/v8hIWSr92B/2423.ts
+#EXTINF:0,#EXTINF:-1,POL: HBO HD By www.iptv4free.com
+http://topiptv.net:5890/live/wGNXBdG71N/v8hIWSr92B/2425.ts
+#EXTINF:0,#EXTINF:-1,POL: HBO2 HD
+http://topiptv.net:5890/live/wGNXBdG71N/v8hIWSr92B/2420.ts
+#EXTINF:0,#EXTINF:-1,PL: FOX HD
+http://topiptv.net:5890/live/wGNXBdG71N/v8hIWSr92B/2406.ts
+#EXTINF:0,#EXTINF:-1,PL: Fox Comedy HD
+http://topiptv.net:5890/live/wGNXBdG71N/v8hIWSr92B/2407.ts
+#EXTINF:0,#EXTINF:-1,POL: Fox Comedy
+http://topiptv.net:5890/live/wGNXBdG71N/v8hIWSr92B/2408.ts
+#EXTINF:0,#EXTINF:-1,PL: AXN White
+http://topiptv.net:5890/live/wGNXBdG71N/v8hIWSr92B/2415.ts
+#EXTINF:0,#EXTINF:-1,PL: AXN SPIN HD
+http://topiptv.net:5890/live/wGNXBdG71N/v8hIWSr92B/2416.ts
+#EXTINF:0,#EXTINF:-1,PL: AXN HD By www.iptv4free.com
+http://topiptv.net:5890/live/wGNXBdG71N/v8hIWSr92B/2417.ts
+#EXTINF:0,#EXTINF:-1,PL: AXN Black
+http://topiptv.net:5890/live/wGNXBdG71N/v8hIWSr92B/2418.ts
+#EXTINF:0,#EXTINF:-1,PL: AXN
+http://topiptv.net:5890/live/wGNXBdG71N/v8hIWSr92B/2419.ts
+#EXTINF:0,#EXTINF:-1,POL: Polsat Sport News
+http://topiptv.net:5890/live/wGNXBdG71N/v8hIWSr92B/2385.ts
+#EXTINF:0,#EXTINF:-1,POL: Eleven Sport
+http://topiptv.net:5890/live/wGNXBdG71N/v8hIWSr92B/2426.ts
+#EXTINF:0,#EXTINF:-1,POL: Eleven
+http://topiptv.net:5890/live/wGNXBdG71N/v8hIWSr92B/2427.ts
+#EXTINF:0,#EXTINF:-1,PL: TVP SPORT
+http://topiptv.net:5890/live/wGNXBdG71N/v8hIWSr92B/2373.ts
+#EXTINF:0,#EXTINF:-1,POL: Canal  Sport HD
+http://topiptv.net:5890/live/wGNXBdG71N/v8hIWSr92B/2428.ts
+#EXTINF:0,#EXTINF:-1,POL: Canal  Sport2
+http://topiptv.net:5890/live/wGNXBdG71N/v8hIWSr92B/2429.ts
+#EXTINF:0,#EXTINF:-1,PL: Polsat Sport
+http://topiptv.net:5890/live/wGNXBdG71N/v8hIWSr92B/2386.ts
+#EXTINF:0,#EXTINF:-1,PL: ORANGE SPORT
+http://topiptv.net:5890/live/wGNXBdG71N/v8hIWSr92B/2398.ts
+#EXTINF:0,#EXTINF:-1,PL: nSport By www.iptv4free.com
+http://topiptv.net:5890/live/wGNXBdG71N/v8hIWSr92B/2399.ts
+#EXTINF:0,#EXTINF:-1,POL: ANIMAL PLANET HD
+http://topiptv.net:5890/live/wGNXBdG71N/v8hIWSr92B/2424.ts
+#EXTINF:0,#EXTINF:-1,PL: Planete
+http://topiptv.net:5890/live/wGNXBdG71N/v8hIWSr92B/2397.ts
+#EXTINF:0,#EXTINF:-1,PL: NATIONAL GEO
+http://topiptv.net:5890/live/wGNXBdG71N/v8hIWSr92B/2402.ts
+#EXTINF:0,#EXTINF:-1,PL: Nat Geo Wild
+http://topiptv.net:5890/live/wGNXBdG71N/v8hIWSr92B/2403.ts
+#EXTINF:0,#EXTINF:-1,PL: TVN Turbo
+http://topiptv.net:5890/live/wGNXBdG71N/v8hIWSr92B/2375.ts
+#EXTINF:0,#EXTINF:-1,PL: VIVA Polska
+http://topiptv.net:5890/live/wGNXBdG71N/v8hIWSr92B/2371.ts
+#EXTINF:0,#EXTINF:-1,PL: VH1
+http://topiptv.net:5890/live/wGNXBdG71N/v8hIWSr92B/2372.ts
+#EXTINF:0,#EXTINF:-1,PL: TVP SERIALE
+http://topiptv.net:5890/live/wGNXBdG71N/v8hIWSr92B/2374.ts
+#EXTINF:0,#EXTINF:-1,PL: TVN Style By www.iptv4free.com
+http://topiptv.net:5890/live/wGNXBdG71N/v8hIWSr92B/2376.ts
+#EXTINF:0,#EXTINF:-1,PL: TVN 24
+http://topiptv.net:5890/live/wGNXBdG71N/v8hIWSr92B/2377.ts
+#EXTINF:0,#EXTINF:-1,PL: TVN
+http://topiptv.net:5890/live/wGNXBdG71N/v8hIWSr92B/2378.ts
+#EXTINF:0,#EXTINF:-1,PL: TV 4
+http://topiptv.net:5890/live/wGNXBdG71N/v8hIWSr92B/2382.ts
+#EXTINF:0,#EXTINF:-1,PL: TV6
+http://topiptv.net:5890/live/wGNXBdG71N/v8hIWSr92B/2379.ts
+#EXTINF:0,#EXTINF:-1,PL: TV Trwam
+http://topiptv.net:5890/live/wGNXBdG71N/v8hIWSr92B/2380.ts
+#EXTINF:0,#EXTINF:-1,PL: TV PULS
+http://topiptv.net:5890/live/wGNXBdG71N/v8hIWSr92B/2381.ts
+#EXTINF:0,#EXTINF:-1,PL: TNT
+http://topiptv.net:5890/live/wGNXBdG71N/v8hIWSr92B/2383.ts
+#EXTINF:0,#EXTINF:-1,PL: TLC
+http://topiptv.net:5890/live/wGNXBdG71N/v8hIWSr92B/2384.ts
+#EXTINF:0,#EXTINF:-1,PL: Nickelodeon By www.iptv4free.com
+http://topiptv.net:5890/live/wGNXBdG71N/v8hIWSr92B/2400.ts
+#EXTINF:0,#EXTINF:-1,PL: Nick Jr Polska
+http://topiptv.net:5890/live/wGNXBdG71N/v8hIWSr92B/2401.ts
+#EXTINF:0,#EXTINF:-1,PL: Disney HD
+http://topiptv.net:5890/live/wGNXBdG71N/v8hIWSr92B/2413.ts
+#EXTINF:0,#EXTINF:-1,PL: MTV Polska
+http://topiptv.net:5890/live/wGNXBdG71N/v8hIWSr92B/2404.ts
+#EXTINF:0,#EXTINF:-1,PL: KINO POLSKA
+http://topiptv.net:5890/live/wGNXBdG71N/v8hIWSr92B/2405.ts
+#EXTINF:0,#EXTINF:-1,PL: Comedy Central Polska
+http://topiptv.net:5890/live/wGNXBdG71N/v8hIWSr92B/2414.ts
+#EXTINF:0,#EXTINF:-1,+++++ POLAND +++++
+http://iptvsale.info:8889/live/taki/taki/850.ts
+#EXTINF:0,#EXTINF:-1,PO: Eleven Sports HD+
+http://iptvsale.info:8889/live/taki/taki/1337.ts
+#EXTINF:0,#EXTINF:-1,PO: Eleven HD+
+http://iptvsale.info:8889/live/taki/taki/1338.ts
+#EXTINF:0,#EXTINF:-1,PO: Disney XD HD+
+http://iptvsale.info:8889/live/taki/taki/1339.ts
+#EXTINF:0,#EXTINF:-1,PO: Disney Junior HD+ By www.iptv4free.com
+http://iptvsale.info:8889/live/taki/taki/1340.ts
+#EXTINF:0,#EXTINF:-1,PO: Discovery Science HD+
+http://iptvsale.info:8889/live/taki/taki/1341.ts
+#EXTINF:0,#EXTINF:-1,PO: Disco Polo Music HD+
+http://iptvsale.info:8889/live/taki/taki/1342.ts
+#EXTINF:0,#EXTINF:-1,PO: TVP Rozrywka HD+
+http://iptvsale.info:8889/live/taki/taki/1326.ts
+#EXTINF:0,#EXTINF:-1,PO: Tlc HD+
+http://iptvsale.info:8889/live/taki/taki/1328.ts
+#EXTINF:0,#EXTINF:-1,PO: Teletoon+ HD+
+http://iptvsale.info:8889/live/taki/taki/1317.ts
+#EXTINF:0,#EXTINF:-1,PO: Power TV HD+
+http://iptvsale.info:8889/live/taki/taki/1318.ts
+#EXTINF:0,#EXTINF:-1,PO: Polsat Jim Jam HD+
+http://iptvsale.info:8889/live/taki/taki/1329.ts
+#EXTINF:0,#EXTINF:-1,PO: Polonia 1 HD+
+http://iptvsale.info:8889/live/taki/taki/1327.ts
+#EXTINF:0,#EXTINF:-1,PO: Nickelodeon HD+
+http://iptvsale.info:8889/live/taki/taki/1330.ts
+#EXTINF:0,#EXTINF:-1,PO: Nick Junior Polska+
+http://iptvsale.info:8889/live/taki/taki/1331.ts
+#EXTINF:0,#EXTINF:-1,PO: National Geo People HD+
+http://iptvsale.info:8889/live/taki/taki/1332.ts
+#EXTINF:0,#EXTINF:-1,PO: Mtv Polska HD+
+http://iptvsale.info:8889/live/taki/taki/1333.ts
+#EXTINF:0,#EXTINF:-1,PO: Hbo HD+
+http://iptvsale.info:8889/live/taki/taki/1334.ts
+#EXTINF:0,#EXTINF:-1,PO: Extreme Sports HD+
+http://iptvsale.info:8889/live/taki/taki/1335.ts
+#EXTINF:0,#EXTINF:-1,PO: Eurosport 2 HD+
+http://iptvsale.info:8889/live/taki/taki/1336.ts
+#EXTINF:0,#EXTINF:-1,PO: Domo+ HD+
+http://iptvsale.info:8889/live/taki/taki/1319.ts
+#EXTINF:0,#EXTINF:-1,PO: Canal+ Sport HD+
+http://iptvsale.info:8889/live/taki/taki/1320.ts
+#EXTINF:0,#EXTINF:-1,PO: Canal+ Seriale HD+
+http://iptvsale.info:8889/live/taki/taki/1321.ts
+#EXTINF:0,#EXTINF:-1,PO: Canal+ HD+
+http://iptvsale.info:8889/live/taki/taki/1322.ts
+#EXTINF:0,#EXTINF:-1,PO: Canal+ Film HD+
+http://iptvsale.info:8889/live/taki/taki/1323.ts
+#EXTINF:0,#EXTINF:-1,PO: Canal+ Family HD+
+http://iptvsale.info:8889/live/taki/taki/1324.ts
+#EXTINF:0,#EXTINF:-1,PO: Baby TV HD+
+http://iptvsale.info:8889/live/taki/taki/1325.ts
+#EXTINF:0,#EXTINF:-1,PO: TVP Sport
+http://iptvsale.info:8889/live/taki/taki/822.ts
+#EXTINF:0,#EXTINF:-1,PO: TVN Turbo
+http://iptvsale.info:8889/live/taki/taki/823.ts
+#EXTINF:0,#EXTINF:-1,PO: TVN Style
+http://iptvsale.info:8889/live/taki/taki/824.ts
+#EXTINF:0,#EXTINF:-1,PO: TVN
+http://iptvsale.info:8889/live/taki/taki/825.ts
+#EXTINF:0,#EXTINF:-1,PO: TV Puls By www.iptv4free.com
+http://iptvsale.info:8889/live/taki/taki/826.ts
+#EXTINF:0,#EXTINF:-1,PO: TV 4 HD
+http://iptvsale.info:8889/live/taki/taki/827.ts
+#EXTINF:0,#EXTINF:-1,PO: VH1
+http://iptvsale.info:8889/live/taki/taki/847.ts
+#EXTINF:0,#EXTINF:-1,PO: TV7
+http://iptvsale.info:8889/live/taki/taki/842.ts
+#EXTINF:0,#EXTINF:-1,PO: Viva Polska
+http://iptvsale.info:8889/live/taki/taki/848.ts
+#EXTINF:0,#EXTINF:-1,PO: Disney XD
+http://iptvsale.info:8889/live/taki/taki/820.ts
+#EXTINF:0,#EXTINF:-1,PO: Polsat Sport HD
+http://iptvsale.info:8889/live/taki/taki/828.ts
+#EXTINF:0,#EXTINF:-1,PO: Polsat Sport Extra HD
+http://iptvsale.info:8889/live/taki/taki/829.ts
+#EXTINF:0,#EXTINF:-1,PO: Polsat Play
+http://iptvsale.info:8889/live/taki/taki/830.ts
+#EXTINF:0,#EXTINF:-1,PO: Polsat News
+http://iptvsale.info:8889/live/taki/taki/831.ts
+#EXTINF:0,#EXTINF:-1,PO: Polsat Film
+http://iptvsale.info:8889/live/taki/taki/832.ts
+#EXTINF:0,#EXTINF:-1,PO: Polsat Cafe
+http://iptvsale.info:8889/live/taki/taki/833.ts
+#EXTINF:0,#EXTINF:-1,PO: Polsat
+http://iptvsale.info:8889/live/taki/taki/834.ts
+#EXTINF:0,#EXTINF:-1,PO: Polo TV
+http://iptvsale.info:8889/live/taki/taki/835.ts
+#EXTINF:0,#EXTINF:-1,PO: Planete+
+http://iptvsale.info:8889/live/taki/taki/836.ts
+#EXTINF:0,#EXTINF:-1,PO: Kino Polska
+http://iptvsale.info:8889/live/taki/taki/840.ts
+#EXTINF:0,#EXTINF:-1,PO: Filmbox Premium
+http://iptvsale.info:8889/live/taki/taki/837.ts
+#EXTINF:0,#EXTINF:-1,PO: nSport
+http://iptvsale.info:8889/live/taki/taki/838.ts
+#EXTINF:0,#EXTINF:-1,PO: Orange Sport
+http://iptvsale.info:8889/live/taki/taki/849.ts
+#EXTINF:0,#EXTINF:-1,PO: Minimini+
+http://iptvsale.info:8889/live/taki/taki/839.ts
+#EXTINF:0,#EXTINF:-1,PO: Fox HD
+http://iptvsale.info:8889/live/taki/taki/821.ts
+#EXTINF:0,#EXTINF:-1,PO: Fox Comedy HD
+http://iptvsale.info:8889/live/taki/taki/845.ts
+#EXTINF:0,#EXTINF:-1,PO: Discovery
+http://iptvsale.info:8889/live/taki/taki/844.ts
+#EXTINF:0,#EXTINF:-1,PO: Discovery ID
+http://iptvsale.info:8889/live/taki/taki/841.ts
+#EXTINF:0,#EXTINF:-1,PO: Discovery Life
+http://iptvsale.info:8889/live/taki/taki/843.ts
+#EXTINF:0,#EXTINF:-1,PO: National Geographic
+http://iptvsale.info:8889/live/taki/taki/846.ts
+#EXTINF:0,#EXTINF:-1,PO: Nat Geo Wild
+http://iptvsale.info:8889/live/taki/taki/819.ts
+#EXTINF:0,#EXTINF:-1,*****~~•POLAND•~~***** By www.iptv4free.com
+http://195.154.154.185:5890/live/wGNXBdG71N/v8hIWSr92B/2369.ts
+#EXTINF:0,#EXTINF:-1,PL:TVP1
+http://195.154.154.185:5890/live/wGNXBdG71N/v8hIWSr92B/2370.ts
+#EXTINF:0,#EXTINF:-1,PL: Polonia 1
+http://195.154.154.185:5890/live/wGNXBdG71N/v8hIWSr92B/2396.ts
+#EXTINF:0,#EXTINF:-1,PL: Polsat
+http://195.154.154.185:5890/live/wGNXBdG71N/v8hIWSr92B/2395.ts
+#EXTINF:0,#EXTINF:-1,PL: Polsat 2
+http://195.154.154.185:5890/live/wGNXBdG71N/v8hIWSr92B/2394.ts
+#EXTINF:0,#EXTINF:-1,PL: Polsat Play
+http://195.154.154.185:5890/live/wGNXBdG71N/v8hIWSr92B/2388.ts
+#EXTINF:0,#EXTINF:-1,PL: Polsat News
+http://195.154.154.185:5890/live/wGNXBdG71N/v8hIWSr92B/2389.ts
+#EXTINF:0,#EXTINF:-1,PL: Polsat Jim Jam
+http://195.154.154.185:5890/live/wGNXBdG71N/v8hIWSr92B/2390.ts
+#EXTINF:0,#EXTINF:-1,POL: Polsat Romans
+http://195.154.154.185:5890/live/wGNXBdG71N/v8hIWSr92B/2387.ts
+#EXTINF:0,#EXTINF:-1,PL: Polsat HD
+http://195.154.154.185:5890/live/wGNXBdG71N/v8hIWSr92B/2391.ts
+#EXTINF:0,#EXTINF:-1,PL: Polsat Film
+http://195.154.154.185:5890/live/wGNXBdG71N/v8hIWSr92B/2392.ts
+#EXTINF:0,#EXTINF:-1,PL: Polsat Cafe
+http://195.154.154.185:5890/live/wGNXBdG71N/v8hIWSr92B/2393.ts
+#EXTINF:0,#EXTINF:-1,POL: Filmbox Action
+http://195.154.154.185:5890/live/wGNXBdG71N/v8hIWSr92B/2411.ts
+#EXTINF:0,#EXTINF:-1,PL: Filmbox Premium
+http://195.154.154.185:5890/live/wGNXBdG71N/v8hIWSr92B/2409.ts
+#EXTINF:0,#EXTINF:-1,PL: Filmbox Family
+http://195.154.154.185:5890/live/wGNXBdG71N/v8hIWSr92B/2410.ts
+#EXTINF:0,#EXTINF:-1,PL: Filmbox
+http://195.154.154.185:5890/live/wGNXBdG71N/v8hIWSr92B/2412.ts
+#EXTINF:0,#EXTINF:-1,POL: CANAL  SERIALE HD
+http://195.154.154.185:5890/live/wGNXBdG71N/v8hIWSr92B/2421.ts
+#EXTINF:0,#EXTINF:-1,POL: CANAL  FILM HD
+http://195.154.154.185:5890/live/wGNXBdG71N/v8hIWSr92B/2422.ts
+#EXTINF:0,#EXTINF:-1,POL: CANAL  FAMILY HD
+http://195.154.154.185:5890/live/wGNXBdG71N/v8hIWSr92B/2423.ts
+#EXTINF:0,#EXTINF:-1,POL: HBO HD
+http://195.154.154.185:5890/live/wGNXBdG71N/v8hIWSr92B/2425.ts
+#EXTINF:0,#EXTINF:-1,POL: HBO2 HD
+http://195.154.154.185:5890/live/wGNXBdG71N/v8hIWSr92B/2420.ts
+#EXTINF:0,#EXTINF:-1,PL: FOX HD
+http://195.154.154.185:5890/live/wGNXBdG71N/v8hIWSr92B/2406.ts
+#EXTINF:0,#EXTINF:-1,PL: Fox Comedy HD
+http://195.154.154.185:5890/live/wGNXBdG71N/v8hIWSr92B/2407.ts
+#EXTINF:0,#EXTINF:-1,POL: Fox Comedy
+http://195.154.154.185:5890/live/wGNXBdG71N/v8hIWSr92B/2408.ts
+#EXTINF:0,#EXTINF:-1,PL: AXN White
+http://195.154.154.185:5890/live/wGNXBdG71N/v8hIWSr92B/2415.ts
+#EXTINF:0,#EXTINF:-1,PL: AXN SPIN HD
+http://195.154.154.185:5890/live/wGNXBdG71N/v8hIWSr92B/2416.ts
+#EXTINF:0,#EXTINF:-1,PL: AXN HD
+http://195.154.154.185:5890/live/wGNXBdG71N/v8hIWSr92B/2417.ts
+#EXTINF:0,#EXTINF:-1,PL: AXN Black
+http://195.154.154.185:5890/live/wGNXBdG71N/v8hIWSr92B/2418.ts
+#EXTINF:0,#EXTINF:-1,PL: AXN
+http://195.154.154.185:5890/live/wGNXBdG71N/v8hIWSr92B/2419.ts
+#EXTINF:0,#EXTINF:-1,POL: Polsat Sport News
+http://195.154.154.185:5890/live/wGNXBdG71N/v8hIWSr92B/2385.ts
+#EXTINF:0,#EXTINF:-1,POL: Eleven Sport
+http://195.154.154.185:5890/live/wGNXBdG71N/v8hIWSr92B/2426.ts
+#EXTINF:0,#EXTINF:-1,POL: Eleven
+http://195.154.154.185:5890/live/wGNXBdG71N/v8hIWSr92B/2427.ts
+#EXTINF:0,#EXTINF:-1,PL: TVP SPORT
+http://195.154.154.185:5890/live/wGNXBdG71N/v8hIWSr92B/2373.ts
+#EXTINF:0,#EXTINF:-1,POL: Canal  Sport HD
+http://195.154.154.185:5890/live/wGNXBdG71N/v8hIWSr92B/2428.ts
+#EXTINF:0,#EXTINF:-1,POL: Canal  Sport2
+http://195.154.154.185:5890/live/wGNXBdG71N/v8hIWSr92B/2429.ts
+#EXTINF:0,#EXTINF:-1,PL: Polsat Sport
+http://195.154.154.185:5890/live/wGNXBdG71N/v8hIWSr92B/2386.ts
+#EXTINF:0,#EXTINF:-1,PL: ORANGE SPORT
+http://195.154.154.185:5890/live/wGNXBdG71N/v8hIWSr92B/2398.ts
+#EXTINF:0,#EXTINF:-1,PL: nSport
+http://195.154.154.185:5890/live/wGNXBdG71N/v8hIWSr92B/2399.ts
+#EXTINF:0,#EXTINF:-1,POL: ANIMAL PLANET HD
+http://195.154.154.185:5890/live/wGNXBdG71N/v8hIWSr92B/2424.ts
+#EXTINF:0,#EXTINF:-1,PL: Planete
+http://195.154.154.185:5890/live/wGNXBdG71N/v8hIWSr92B/2397.ts
+#EXTINF:0,#EXTINF:-1,PL: NATIONAL GEO
+http://195.154.154.185:5890/live/wGNXBdG71N/v8hIWSr92B/2402.ts
+#EXTINF:0,#EXTINF:-1,PL: Nat Geo Wild
+http://195.154.154.185:5890/live/wGNXBdG71N/v8hIWSr92B/2403.ts
+#EXTINF:0,#EXTINF:-1,PL: TVN Turbo
+http://195.154.154.185:5890/live/wGNXBdG71N/v8hIWSr92B/2375.ts
+#EXTINF:0,#EXTINF:-1,PL: VIVA Polska
+http://195.154.154.185:5890/live/wGNXBdG71N/v8hIWSr92B/2371.ts
+#EXTINF:0,#EXTINF:-1,PL: VH1 By www.iptv4free.com
+http://195.154.154.185:5890/live/wGNXBdG71N/v8hIWSr92B/2372.ts
+#EXTINF:0,#EXTINF:-1,PL: TVP SERIALE
+http://195.154.154.185:5890/live/wGNXBdG71N/v8hIWSr92B/2374.ts
+#EXTINF:0,#EXTINF:-1,PL: TVN Style
+http://195.154.154.185:5890/live/wGNXBdG71N/v8hIWSr92B/2376.ts
+#EXTINF:0,#EXTINF:-1,PL: TVN 24
+http://195.154.154.185:5890/live/wGNXBdG71N/v8hIWSr92B/2377.ts
+#EXTINF:0,#EXTINF:-1,PL: TVN
+http://195.154.154.185:5890/live/wGNXBdG71N/v8hIWSr92B/2378.ts
+#EXTINF:0,#EXTINF:-1,PL: TV 4
+http://195.154.154.185:5890/live/wGNXBdG71N/v8hIWSr92B/2382.ts
+#EXTINF:0,#EXTINF:-1,PL: TV6
+http://195.154.154.185:5890/live/wGNXBdG71N/v8hIWSr92B/2379.ts
+#EXTINF:0,#EXTINF:-1,PL: TV Trwam
+http://195.154.154.185:5890/live/wGNXBdG71N/v8hIWSr92B/2380.ts
+#EXTINF:0,#EXTINF:-1,PL: TV PULS
+http://195.154.154.185:5890/live/wGNXBdG71N/v8hIWSr92B/2381.ts
+#EXTINF:0,#EXTINF:-1,PL: TNT
+http://195.154.154.185:5890/live/wGNXBdG71N/v8hIWSr92B/2383.ts
+#EXTINF:0,#EXTINF:-1,PL: TLC
+http://195.154.154.185:5890/live/wGNXBdG71N/v8hIWSr92B/2384.ts
+#EXTINF:0,#EXTINF:-1,PL: Nickelodeon
+http://195.154.154.185:5890/live/wGNXBdG71N/v8hIWSr92B/2400.ts
+#EXTINF:0,#EXTINF:-1,PL: Nick Jr Polska
+http://195.154.154.185:5890/live/wGNXBdG71N/v8hIWSr92B/2401.ts
+#EXTINF:0,#EXTINF:-1,PL: Disney HD
+http://195.154.154.185:5890/live/wGNXBdG71N/v8hIWSr92B/2413.ts
+#EXTINF:0,#EXTINF:-1,PL: MTV Polska By www.iptv4free.com
+http://195.154.154.185:5890/live/wGNXBdG71N/v8hIWSr92B/2404.ts
+#EXTINF:0,#EXTINF:-1,PL: KINO POLSKA
+http://195.154.154.185:5890/live/wGNXBdG71N/v8hIWSr92B/2405.ts
+#EXTINF:0,#EXTINF:-1,PL: Comedy Central Polska
+http://195.154.154.185:5890/live/wGNXBdG71N/v8hIWSr92B/2414.ts
+#EXTINF:0,#EXTINF:-1,====KANALE ITALY=====
+#EXTM3U
+#EXTINF:0,#
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/870.ts
+#EXTINF:0,#EXTINF:-1,Rai 1 .HD
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/118.ts
+#EXTINF:0,#EXTINF:-1,Rai 2 HD
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/117.ts
+#EXTINF:0,#EXTINF:-1,Rai 3 HD
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/120.ts
+#EXTINF:0,#EXTINF:-1,Rai  4
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/887.ts
+#EXTINF:0,#EXTINF:-1,Rai 5
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/197.ts
+#EXTINF:0,#EXTINF:-1,Rai Premium
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/890.ts
+#EXTINF:0,#EXTINF:-1,Rai Movie
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/889.ts
+#EXTINF:0,#EXTINF:-1,RSI LA 1 HD
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1592.ts
+#EXTINF:0,#EXTINF:-1,RSI La 2 HD
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1593.ts
+#EXTINF:0,#EXTINF:-1,Sky Tg 24
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/204.ts
+#EXTINF:0,#EXTINF:-1,Italia 1
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/122.ts
+#EXTINF:0,#EXTINF:-1,Italia 2
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/141.ts
+#EXTINF:0,#EXTINF:-1,Rete 4
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/123.ts
+#EXTINF:0,#EXTINF:-1,Canale 5
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/121.ts
+#EXTINF:0,#EXTINF:-1,LA7
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/701.ts
+#EXTINF:0,#EXTINF:-1,Sky Uno
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/105.ts
+#EXTINF:0,#EXTINF:-1,FOX Life HD Italy
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/989.ts
+#EXTINF:0,#EXTINF:-1,Fox Italy
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/817.ts
+#EXTINF:0,#EXTINF:-1,Premium Calcio +1HD
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/142.ts
+#EXTINF:0,#EXTINF:-1,Premium Cinema HD
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/111.ts
+#EXTINF:0,#EXTINF:-1,Premium Cinema 2
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/189.ts
+#EXTINF:0,#EXTINF:-1,Premium Studio Universal
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/884.ts
+#EXTINF:0,#EXTINF:-1,Premium Joy
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/188.ts
+#EXTINF:0,#EXTINF:-1,Premium Joy +1
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1309.ts
+#EXTINF:0,#EXTINF:-1,Premium Joy +2
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1304.ts
+#EXTINF:0,#EXTINF:-1,Premium Stories
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/110.ts
+#EXTINF:0,#EXTINF:-1,Premium Energy
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/109.ts
+#EXTINF:0,#EXTINF:-1,Premium Energy +1HD
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1315.ts
+#EXTINF:0,#EXTINF:-1,Premium Energy +2HD
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1327.ts
+#EXTINF:0,#EXTINF:-1,Premium Crime
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/104.ts
+#EXTINF:0,#EXTINF:-1,Premium Emotion
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/44.ts
+#EXTINF:0,#EXTINF:-1,Premium Emotion +1
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1303.ts
+#EXTINF:0,#EXTINF:-1,Premium Emotion +2
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1301.ts
+#EXTINF:0,#EXTINF:-1,Premium Action
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/112.ts
+#EXTINF:0,#EXTINF:-1,Premium Action +24
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1591.ts
+#EXTINF:0,#EXTINF:-1,PREMIUM COMEDY
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/172.ts
+#EXTINF:0,#EXTINF:-1,Sky Disney XD
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/916.ts
+#EXTINF:0,#EXTINF:-1,it Disney Junior
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/810.ts
+#EXTINF:0,#EXTINF:-1,Cartoon Network
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/134.ts
+#EXTINF:0,#EXTINF:-1,Rai YoYo
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/881.ts
+#EXTINF:0,#EXTINF:-1,Premium Sport
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/213.ts
+#EXTINF:0,#EXTINF:-1,Premium FoxSport
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/828.ts
+#EXTINF:0,#EXTINF:-1,Premium Sport 2 +1HD
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/803.ts
+#EXTINF:0,#EXTINF:-1,Premium Sport 2 +2HD
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/802.ts
+#EXTINF:0,#EXTINF:-1,Rai Sport 1
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/888.ts
+#EXTINF:0,#EXTINF:-1,Premium Sport FHD
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/113.ts
+#EXTINF:0,#EXTINF:-1,Premium Calcio 1 HD
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/205.ts
+#EXTINF:0,#EXTINF:-1,Premium Calcio 2 HD
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/210.ts
+#EXTINF:0,#EXTINF:-1,Premium Calcio 3
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/755.ts
+#EXTINF:0,#EXTINF:-1,Premium Calcio 4
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/754.ts
+#EXTINF:0,#EXTINF:-1,Premium Calcio 5
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/753.ts
+#EXTINF:0,#EXTINF:-1,Premium Calcio 6
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/915.ts
+#EXTINF:0,#EXTINF:-1,IT
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1307.ts
+#EXTINF:0,#EXTINF:-1,Sky Cinema 1 HD
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/114.ts
+#EXTINF:0,#EXTINF:-1,Sky Cinema Family HD
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/116.ts
+#EXTINF:0,#EXTINF:-1,SkyCinema Hits
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/132.ts
+#EXTINF:0,#EXTINF:-1,Sky Cinema Max HD
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/128.ts
+#EXTINF:0,#EXTINF:-1,Sky Cinema Comedy HD
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/163.ts
+#EXTINF:0,#EXTINF:-1,Cinema Passion HD
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/164.ts
+#EXTINF:0,#EXTINF:-1,Sky Cinema Cult HD
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/931.ts
+#EXTINF:0,#EXTINF:-1,Sky Cinema Classic HD
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/146.ts
+#EXTINF:0,#EXTINF:-1,Sky Atlantic HD
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/892.ts
+#EXTINF:0,#EXTINF:-1,SKY Discovery
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/127.ts
+#EXTINF:0,#EXTINF:-1,Discovery Dmax IT
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1612.ts
+#EXTINF:0,#EXTINF:-1,Sky History HD
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/221.ts
+#EXTINF:0,#EXTINF:-1,SKY ANIMAL PLANET
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/208.ts
+#EXTINF:0,#EXTINF:-1,NationalGeo HD
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/223.ts
+#EXTINF:0,#EXTINF:-1,Caccia & Pesca
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/81.ts
+#EXTINF:0,#EXTINF:-1,Premium Extra 1 (GF 2016/2017)
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/124.ts
+#EXTINF:0,#EXTINF:-1,MTV Live
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/708.ts
+#EXTINF:0,#EXTINF:-1,Euro Sport
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/155.ts
+#EXTINF:0,#EXTINF:-1,Sky Moto GP
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/129.ts
+#EXTINF:0,#EXTINF:-1,Sky Sport 24 HD
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/157.ts
+#EXTINF:0,#EXTINF:-1,Sky Sport 1 HD
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/125.ts
+#EXTINF:0,#EXTINF:-1,Sky Sport 2 HD
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/126.ts
+#EXTINF:0,#EXTINF:-1,Sky Supercalcio HD
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/180.ts
+#EXTINF:0,#EXTINF:-1,Sky Calcio 1 HD
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/195.ts
+#EXTINF:0,#EXTINF:-1,Sky Calcio 2 HD
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/219.ts
+#EXTINF:0,#EXTINF:-1,Sky Calcio 3 HD
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/220.ts
+#EXTINF:0,#EXTINF:-1,PrimaFila 1 HD
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/72.ts
+#EXTINF:0,#EXTINF:-1,PrimaFila 2 HD
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/199.ts
+#EXTINF:0,#EXTINF:-1,PrimaFila 3 HD
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/190.ts
+#EXTINF:0,#EXTINF:-1,PrimaFila 4 HD
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/88.ts
+#EXTINF:0,#EXTINF:-1,Primafila 5 HD
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/73.ts
+#EXTINF:0,#EXTINF:-1,Primafila 6 HD
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/215.ts
+#EXTINF:0,#EXTINF:-1,Primafila 7 HD
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/216.ts
+#EXTINF:0,#EXTINF:-1,Primafila 8 HD
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/217.ts
+#EXTINF:0,#EXTINF:-1,Primafila 9 HD
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/214.ts
+#EXTINF:0,#EXTINF:-1,Primafila 10 HD
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/207.ts
+#EXTINF:0,#EXTINF:-1,====KANALE ENGLISH=====
+#EXTM3U
+#EXTINF:0,#
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/872.ts
+#EXTINF:0,#EXTINF:-1,BBC One UK
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/211.ts
+#EXTINF:0,#EXTINF:-1,BBC 2(Uk)
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1381.ts
+#EXTINF:0,#EXTINF:-1,BBC 3(Uk)
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1380.ts
+#EXTINF:0,#EXTINF:-1,BBC 4 (Uk)
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1382.ts
+#EXTINF:0,#EXTINF:-1,UK
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/694.ts
+#EXTINF:0,#EXTINF:-1,UK
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/147.ts
+#EXTINF:0,#EXTINF:-1,ITV 2
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/695.ts
+#EXTINF:0,#EXTINF:-1,ITV 3
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/696.ts
+#EXTINF:0,#EXTINF:-1,ITV 4
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/697.ts
+#EXTINF:0,#EXTINF:-1,Sky UK Premiere
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/166.ts
+#EXTINF:0,#EXTINF:-1,UK - SKY THRILLER
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/158.ts
+#EXTINF:0,#EXTINF:-1,SKY  FOX CRIME HD
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/744.ts
+#EXTINF:0,#EXTINF:-1,Sky Family HD UK
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/160.ts
+#EXTINF:0,#EXTINF:-1,UK
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/703.ts
+#EXTINF:0,#EXTINF:-1,UK
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/145.ts
+#EXTINF:0,#EXTINF:-1,Sky Movies Action  (UK)
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/159.ts
+#EXTINF:0,#EXTINF:-1,Sky UK Comedy
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/165.ts
+#EXTINF:0,#EXTINF:-1,Nat Geo Wild
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/706.ts
+#EXTINF:0,#EXTINF:-1,Discovery UK
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/705.ts
+#EXTINF:0,#EXTINF:-1,Discovery History
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/801.ts
+#EXTINF:0,#EXTINF:-1,Sky SPORTS F1 (UK)
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/68.ts
+#EXTINF:0,#EXTINF:-1,SkyUK
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/130.ts
+#EXTINF:0,#EXTINF:-1,SKY UK
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/131.ts
+#EXTINF:0,#EXTINF:-1,SKY Sport 1 HD (uk)
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/57.ts
+#EXTINF:0,#EXTINF:-1,SKY Sport 2 HD (uk)
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/58.ts
+#EXTINF:0,#EXTINF:-1,SKY Sport 3 HD (uk)
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/59.ts
+#EXTINF:0,#EXTINF:-1,SKY Sport 4 HD (uk)
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/60.ts
+#EXTINF:0,#EXTINF:-1,SKY Sport 5 HD (uk)
+#EXTINF:-1,===KANALA HOLANDES==
+#EXTINF:0,#EXTM3U
+#
+#EXTINF:0,#EXTINF:-1,NL
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1541.ts
+#EXTINF:0,#EXTINF:-1,NL
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1573.ts
+#EXTINF:0,#EXTINF:-1,NL
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1572.ts
+#EXTINF:0,#EXTINF:-1,NL
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1571.ts
+#EXTINF:0,#EXTINF:-1,NL
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1574.ts
+#EXTINF:0,#EXTINF:-1,NL
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1542.ts
+#EXTINF:0,#EXTINF:-1,NL
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1543.ts
+#EXTINF:0,#EXTINF:-1,NL
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1544.ts
+#EXTINF:0,#EXTINF:-1,NL
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1545.ts
+#EXTINF:0,#EXTINF:-1,NL
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1546.ts
+#EXTINF:0,#EXTINF:-1,NL
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1547.ts
+#EXTINF:0,#EXTINF:-1,NL
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1548.ts
+#EXTINF:0,#EXTINF:-1,NL
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1549.ts
+#EXTINF:0,#EXTINF:-1,NL
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1550.ts
+#EXTINF:0,#EXTINF:-1,NL
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1540.ts
+#EXTINF:0,#EXTINF:-1,NL
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1551.ts
+#EXTINF:0,#EXTINF:-1,NL
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1552.ts
+#EXTINF:0,#EXTINF:-1,NL
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1553.ts
+#EXTINF:0,#EXTINF:-1,NL
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1554.ts
+#EXTINF:0,#EXTINF:-1,NL
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1555.ts
+#EXTINF:0,#EXTINF:-1,NL
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1556.ts
+#EXTINF:0,#EXTINF:-1,NL
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1560.ts
+#EXTINF:0,#EXTINF:-1,NL
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1559.ts
+#EXTINF:0,#EXTINF:-1,NL
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1558.ts
+#EXTINF:0,#EXTINF:-1,NL
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1557.ts
+#EXTINF:0,#EXTINF:-1,NL
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1561.ts
+#EXTINF:0,#EXTINF:-1,NL
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1562.ts
+#EXTINF:0,#EXTINF:-1,NL
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1563.ts
+#EXTINF:0,#EXTINF:-1,NL
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1564.ts
+#EXTINF:0,#EXTINF:-1,NL
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1565.ts
+#EXTINF:0,#EXTINF:-1,NL
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1566.ts
+#EXTINF:0,#EXTINF:-1,===KANALA NORVEQIS==
+#EXTM3U
+#EXTINF:0,#
+#EXTINF:-1,A1 SKANDINAVIJA
+#EXTINF:0,http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1442.ts
+#EXTINF:-1,NOR
+#EXTINF:0,http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1443.ts
+#EXTINF:-1,NO
+#EXTINF:0,http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1444.ts
+#EXTINF:-1,NRK Super NRK3 SK
+#EXTINF:0,http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1445.ts
+#EXTINF:-1,DK
+#EXTINF:0,http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1446.ts
+#EXTINF:-1,NOR
+#EXTINF:0,http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1441.ts
+#EXTINF:-1,NO=Viasat_Premiere (global)
+#EXTINF:0,http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1447.ts
+#EXTINF:-1,NO
+#EXTINF:0,http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1496.ts
+#EXTINF:-1,NO
+#EXTINF:0,http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1488.ts
+#EXTINF:-1,NO
+#EXTINF:0,http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1487.ts
+#EXTINF:-1,NO
+#EXTINF:0,http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1495.ts
+#EXTINF:-1,NO
+#EXTINF:0,http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1494.ts
+#EXTINF:-1,TV2 Zebra SWE
+#EXTINF:0,http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1497.ts
+#EXTINF:-1,NO
+#EXTINF:0,http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1499.ts
+#EXTINF:-1,NO
+#EXTINF:0,http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1493.ts
+#EXTINF:-1,NO
+#EXTINF:0,http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1500.ts
+#EXTINF:-1,tvm3
+#EXTINF:0,http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1501.ts
+#EXTINF:-1,WEO
+#EXTINF:0,http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1502.ts
+#EXTINF:-1,NOR
+#EXTINF:0,http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1489.ts
+#EXTINF:-1,NOR
+#EXTINF:0,http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1490.ts
+#EXTINF:-1,NOR
+#EXTINF:0,http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1491.ts
+#EXTINF:-1,NOR
+#EXTINF:0,http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1492.ts
+#EXTINF:-1,NO
+#EXTINF:0,http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1486.ts
+#EXTINF:-1,V2 Sport Premium SWE
+#EXTINF:0,http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1482.ts
+#EXTINF:-1,TV3 Sport 1 SWE
+#EXTINF:0,http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1483.ts
+#EXTINF:-1,VIASAT
+#EXTINF:0,http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1484.ts
+#EXTINF:-1,Viasat Film Hits
+#EXTINF:0,http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1485.ts
+#EXTINF:-1,CHANNEL 4 Sweden
+#EXTINF:0,http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1498.ts
+#EXTINF:-1,Viasat_Comedy SWE
+#EXTINF:0,http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1448.ts
+#EXTINF:-1,SVT2 (global)
+#EXTINF:0,http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1449.ts
+#EXTINF:-1,C More Fotboll SWE
+#EXTINF:0,http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1450.ts
+#EXTINF:-1,Nat Geo Sverige SWE
+#EXTINF:0,http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1451.ts
+#EXTINF:-1,More Fotboll SWE
+#EXTINF:0,http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1452.ts
+#EXTINF:-1,C More First SWE
+#EXTINF:0,http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1453.ts
+#EXTINF:-1,NO=C_More_Emotion (global)
+#EXTINF:0,http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1454.ts
+#EXTINF:-1,More Action SWE
+#EXTINF:0,http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1455.ts
+#EXTINF:-1,KANAL 5 SE
+#EXTINF:0,http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1456.ts
+#EXTINF:-1,===KANALA SPONIE===
+#EXTINF:0,#EXTM3U
+#
+#EXTINF:0,#EXTINF:-1,VH1 CLASSIC
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1185.ts
+#EXTINF:0,#EXTINF:-1,VH1
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1186.ts
+#EXTINF:0,#EXTINF:-1,SP
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1181.ts
+#EXTINF:0,#EXTINF:-1,SP
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1182.ts
+#EXTINF:0,#EXTINF:-1,ODISEA
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1183.ts
+#EXTINF:0,#EXTINF:-1,SP
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1177.ts
+#EXTINF:0,#EXTINF:-1,HISTORIA
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1178.ts
+#EXTINF:0,#EXTINF:-1,SP
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1179.ts
+#EXTINF:0,#EXTINF:-1,FOX LIFE
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1173.ts
+#EXTINF:0,#EXTINF:-1,FOX
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1174.ts
+#EXTINF:0,#EXTINF:-1,LA1 (es)
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1175.ts
+#EXTINF:0,#EXTINF:-1,DISCOVERY MAX
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1176.ts
+#EXTINF:0,#EXTINF:-1,SP
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1187.ts
+#EXTINF:0,#EXTINF:-1,COSMO
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1188.ts
+#EXTINF:0,#EXTINF:-1,AXN WHITE
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1168.ts
+#EXTINF:0,#EXTINF:-1,AXN
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1169.ts
+#EXTINF:0,#EXTINF:-1,AMC
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1171.ts
+#EXTINF:0,#EXTINF:-1,tcm
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1172.ts
+#EXTINF:0,#EXTINF:-1,COMEDY CENTRAL
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1189.ts
+#EXTINF:0,#EXTINF:-1,CANAL COCINA
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1190.ts
+#EXTINF:0,#EXTINF:-1,CANAL  COMEDIA
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1191.ts
+#EXTINF:0,#EXTINF:-1,CANAL   SERIES
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1192.ts
+#EXTINF:0,#EXTINF:-1,C  SERIES EXTRA
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1193.ts
+#EXTINF:0,#EXTINF:-1,C  ESTRENOS
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1194.ts
+#EXTINF:0,#EXTINF:-1,C  ACCION
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1195.ts
+#EXTINF:0,#EXTINF:-1,Canal + Liga
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/698.ts
+#EXTINF:0,#EXTINF:-1,C   FÚTBOL
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1196.ts
+#EXTINF:0,#EXTINF:-1,Es
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1208.ts
+#EXTINF:0,#EXTINF:-1,===KANALA UKRANINES===
+#EXTM3U
+#EXTINF:0,#
+#EXTINF:-1,UK: BBC One HD
+#EXTINF:0,http://sonic-iptv.com:2500/live/lee/lee/222.ts
+#EXTINF:-1,UK: BBC One Wales
+#EXTINF:0,http://sonic-iptv.com:2500/live/lee/lee/225.ts
+#EXTINF:-1,UK: BBC One Scotland
+#EXTINF:0,http://sonic-iptv.com:2500/live/lee/lee/226.ts
+#EXTINF:-1,UK: BBC One Northern Ireland
+#EXTINF:0,http://sonic-iptv.com:2500/live/lee/lee/227.ts
+#EXTINF:-1,UK: BBC Two HD
+#EXTINF:0,http://sonic-iptv.com:2500/live/lee/lee/220.ts
+#EXTINF:-1,UK: BBC Three HD
+#EXTINF:0,http://sonic-iptv.com:2500/live/lee/lee/221.ts
+#EXTINF:-1,UK: BBC FOUR HD
+#EXTINF:0,http://sonic-iptv.com:2500/live/lee/lee/223.ts
+#EXTINF:-1,UK: ITV4 HD
+#EXTINF:0,http://sonic-iptv.com:2500/live/lee/lee/204.ts
+#EXTINF:-1,UK: ITV1 HD
+#EXTINF:0,http://sonic-iptv.com:2500/live/lee/lee/201.ts
+#EXTINF:-1,UK: ITV2 HD
+#EXTINF:0,http://sonic-iptv.com:2500/live/lee/lee/202.ts
+#EXTINF:-1,UK: ITV 3 HD
+#EXTINF:0,http://sonic-iptv.com:2500/live/lee/lee/203.ts
+#EXTINF:-1,UK: ITV BE
+#EXTINF:0,http://sonic-iptv.com:2500/live/lee/lee/246.ts
+#EXTINF:-1,UK TV3 IE
+#EXTINF:0,http://sonic-iptv.com:2500/live/lee/lee/522.ts
+#EXTINF:-1,UK: CHANNEL 4
+#EXTINF:0,http://sonic-iptv.com:2500/live/lee/lee/229.ts
+#EXTINF:-1,UK: CHANNEL 5
+#EXTINF:0,http://sonic-iptv.com:2500/live/lee/lee/230.ts
+#EXTINF:-1,UK: London Live
+#EXTINF:0,http://sonic-iptv.com:2500/live/lee/lee/200.ts
+#EXTINF:-1,UK.Sky One
+#EXTINF:0,http://sonic-iptv.com:2500/live/lee/lee/232.ts
+#EXTINF:-1,UK: SKY TWO
+#EXTINF:0,http://sonic-iptv.com:2500/live/lee/lee/233.ts
+#EXTINF:-1,UK: Sky Living
+#EXTINF:0,http://sonic-iptv.com:2500/live/lee/lee/189.ts
+#EXTINF:-1,UK: True Crime
+#EXTINF:0,http://sonic-iptv.com:2500/live/lee/lee/235.ts
+#EXTINF:-1,UK: Challenge
+#EXTINF:0,http://sonic-iptv.com:2500/live/lee/lee/234.ts
+#EXTINF:-1,UK: HORROR CHANNEL
+#EXTINF:0,http://sonic-iptv.com:2500/live/lee/lee/247.ts
+#EXTINF:-1,UK: DAVE
+#EXTINF:0,http://sonic-iptv.com:2500/live/lee/lee/252.ts
+#EXTINF:-1,UK RTE JUNIOR
+#EXTINF:0,http://sonic-iptv.com:2500/live/lee/lee/520.ts
+#EXTINF:-1,UK: RTE 1 HD
+#EXTINF:0,http://sonic-iptv.com:2500/live/lee/lee/193.ts
+#EXTINF:-1,UK: RTE 2 HD
+#EXTINF:0,http://sonic-iptv.com:2500/live/lee/lee/192.ts
+#EXTINF:-1,UK: Watch
+#EXTINF:0,http://sonic-iptv.com:2500/live/lee/lee/238.ts
+#EXTINF:-1,UK: UK GOLD
+#EXTINF:0,http://sonic-iptv.com:2500/live/lee/lee/237.ts
+#EXTINF:-1,UK: TRAVEL CHANNEL
+#EXTINF:0,http://sonic-iptv.com:2500/live/lee/lee/236.ts
+#EXTINF:-1,UK: TLC
+#EXTINF:0,http://sonic-iptv.com:2500/live/lee/lee/249.ts
+#EXTINF:-1,UK: SKY FOOD NETWORK
+#EXTINF:0,http://sonic-iptv.com:2500/live/lee/lee/245.ts
+#EXTINF:-1,UK: SKY ARTS 1
+#EXTINF:0,http://sonic-iptv.com:2500/live/lee/lee/239.ts
+#EXTINF:-1,UK: More 4
+#EXTINF:0,http://sonic-iptv.com:2500/live/lee/lee/198.ts
+#EXTINF:-1,UK: ID HD
+#EXTINF:0,http://sonic-iptv.com:2500/live/lee/lee/205.ts
+#EXTINF:-1,UK: E
+#EXTINF:0,http://sonic-iptv.com:2500/live/lee/lee/248.ts
+#EXTINF:-1,UK: DMAX
+#EXTINF:0,http://sonic-iptv.com:2500/live/lee/lee/251.ts
+#EXTINF:-1,UK: CBS Drama
+#EXTINF:0,http://sonic-iptv.com:2500/live/lee/lee/258.ts
+#EXTINF:-1,UK: CBS Action
+#EXTINF:0,http://sonic-iptv.com:2500/live/lee/lee/259.ts
+#EXTINF:-1,UK: ALIBI
+#EXTINF:0,http://sonic-iptv.com:2500/live/lee/lee/253.ts
+#EXTINF:-1,UK: 5 STAR
+#EXTINF:0,http://sonic-iptv.com:2500/live/lee/lee/254.ts
+#EXTINF:-1,UK: Baby tv
+#EXTINF:0,http://sonic-iptv.com:2500/live/lee/lee/224.ts
+#EXTINF:-1,UK: Cartoon Network
+#EXTINF:0,http://sonic-iptv.com:2500/live/lee/lee/213.ts
+#EXTINF:-1,UK: Boomerang
+#EXTINF:0,http://sonic-iptv.com:2500/live/lee/lee/219.ts
+#EXTINF:-1,UK: Nickelodeon
+#EXTINF:0,http://sonic-iptv.com:2500/live/lee/lee/194.ts
+#EXTINF:-1,UK: NICK TOONS
+#EXTINF:0,http://sonic-iptv.com:2500/live/lee/lee/255.ts
+#EXTINF:-1,UK: Nick Junior
+#EXTINF:0,http://sonic-iptv.com:2500/live/lee/lee/257.ts
+#EXTINF:-1,===KANALA PORTOGESE===
+#EXTINF:0,#EXTM3U
+#
+#EXTINF:0,#EXTINF:-1,PT
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1404.ts
+#EXTINF:0,#EXTINF:-1,PT
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1434.ts
+#EXTINF:0,#EXTINF:-1,PT
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1408.ts
+#EXTINF:0,#EXTINF:-1,PT
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1436.ts
+#EXTINF:0,#EXTINF:-1,PT
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1415.ts
+#EXTINF:0,#EXTINF:-1,PT
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1432.ts
+#EXTINF:0,#EXTINF:-1,PT
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1411.ts
+#EXTINF:0,#EXTINF:-1,PT
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1405.ts
+#EXTINF:0,#EXTINF:-1,PT
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1406.ts
+#EXTINF:0,#EXTINF:-1,PT
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1407.ts
+#EXTINF:0,#EXTINF:-1,PT
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1416.ts
+#EXTINF:0,#EXTINF:-1,PT
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1417.ts
+#EXTINF:0,#EXTINF:-1,PT
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1418.ts
+#EXTINF:0,#EXTINF:-1,PT
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1419.ts
+#EXTINF:0,#EXTINF:-1,PT
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1420.ts
+#EXTINF:0,#EXTINF:-1,PT
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1409.ts
+#EXTINF:0,#EXTINF:-1,PT
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1412.ts
+#EXTINF:0,#EXTINF:-1,PT
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1413.ts
+#EXTINF:0,#EXTINF:-1,PT
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1414.ts
+#EXTINF:0,#EXTINF:-1,PT
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1424.ts
+#EXTINF:0,#EXTINF:-1,PT
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1425.ts
+#EXTINF:0,#EXTINF:-1,PT
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1426.ts
+#EXTINF:0,#EXTINF:-1,PT
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1421.ts
+#EXTINF:0,#EXTINF:-1,PT
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1410.ts
+#EXTINF:0,#EXTINF:-1,PT
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1428.ts
+#EXTINF:0,#EXTINF:-1,PT
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1435.ts
+#EXTINF:0,#EXTINF:-1,PT
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1437.ts
+#EXTINF:0,#EXTINF:-1,PT
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1433.ts
+#EXTINF:0,#EXTINF:-1,PT
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1438.ts
+#EXTINF:0,#EXTINF:-1,PT
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1429.ts
+#EXTINF:0,#EXTINF:-1,PT
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1430.ts
+#EXTINF:0,#EXTINF:-1,PT
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1431.ts
+#EXTINF:0,#EXTINF:-1,PT
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1422.ts
+#EXTINF:0,#EXTINF:-1,PT
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1423.ts
+#EXTINF:0,#EXTINF:-1,PT
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/886.ts
+#EXTINF:0,#EXTINF:-1,PT
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1440.ts
+#EXTINF:0,#EXTINF:-1,PT
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1439.ts
+#EXTINF:0,#EXTINF:-1,===KANALA FRANCESE===
+#EXTM3U
+#EXTINF:0,#
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1397.ts
+#EXTINF:0,#EXTINF:-1,France O HD
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/69.ts
+#EXTINF:0,#EXTINF:-1,France 2 HD
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/222.ts
+#EXTINF:0,#EXTINF:-1,France 3 HD
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/70.ts
+#EXTINF:0,#EXTINF:-1,FR
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1319.ts
+#EXTINF:0,#EXTINF:-1,FR
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1333.ts
+#EXTINF:0,#EXTINF:-1,City
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1034.ts
+#EXTINF:0,#EXTINF:-1,M6
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/143.ts
+#EXTINF:0,#EXTINF:-1,W9
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1030.ts
+#EXTINF:0,#EXTINF:-1,6ter
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1031.ts
+#EXTINF:0,#EXTINF:-1,Canal C
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1032.ts
+#EXTINF:0,#EXTINF:-1,1,WEO fr
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1180.ts
+#EXTINF:0,#EXTINF:-1,BOOMERANG
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/733.ts
+#EXTINF:0,#EXTINF:-1,TV Lux
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1033.ts
+#EXTINF:0,#EXTINF:-1,,OM5 TV
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/89.ts
+#EXTINF:0,#EXTINF:-1,FR
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/227.ts
+#EXTINF:0,#EXTINF:-1,MFM Tv
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/206.ts
+#EXTINF:0,#EXTINF:-1,tvclub fr
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1029.ts
+#EXTINF:0,#EXTINF:-1,French
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/745.ts
+#EXTINF:0,#EXTINF:-1,Canal+ France
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/988.ts
+#EXTINF:0,#EXTINF:-1,Canal+ Family
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/986.ts
+#EXTINF:0,#EXTINF:-1,Canal+ Emotion
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/987.ts
+#EXTINF:0,#EXTINF:-1,Canal+ Cinema
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/759.ts
+#EXTINF:0,#EXTINF:-1,FR
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1308.ts
+#EXTINF:0,#EXTINF:-1,FR
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1288.ts
+#EXTINF:0,#EXTINF:-1,FR
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1289.ts
+#EXTINF:0,#EXTINF:-1,FR
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1290.ts
+#EXTINF:0,#EXTINF:-1,FR
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1291.ts
+#EXTINF:0,#EXTINF:-1,FR
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1328.ts
+#EXTINF:0,#EXTINF:-1,FR
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1322.ts
+#EXTINF:0,#EXTINF:-1,FR
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1312.ts
+#EXTINF:0,#EXTINF:-1,FR
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1324.ts
+#EXTINF:0,#EXTINF:-1,RMC Decouverte
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1325.ts
+#EXTINF:0,#EXTINF:-1,FR_CINE_FX
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1317.ts
+#EXTINF:0,#EXTINF:-1,FR_CANAL_SERIES_HD
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1292.ts
+#EXTINF:0,#EXTINF:-1,FR
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1294.ts
+#EXTINF:0,#EXTINF:-1,FR
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1335.ts
+#EXTINF:0,#EXTINF:-1,FR
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1330.ts
+#EXTINF:0,#EXTINF:-1,FR
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1701.ts
+#EXTINF:0,#EXTINF:-1,FR
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1702.ts
+#EXTINF:0,#EXTINF:-1,FR
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1337.ts
+#EXTINF:0,#EXTINF:-1,FR
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1704.ts
+#EXTINF:0,#EXTINF:-1,FR
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1705.ts
+#EXTINF:0,#EXTINF:-1,FR
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1706.ts
+#EXTINF:0,#EXTINF:-1,FR
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1707.ts
+#EXTINF:0,#EXTINF:-1,FR
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1708.ts
+#EXTINF:0,#EXTINF:-1,FR
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1694.ts
+#EXTINF:0,#EXTINF:-1,FR
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1695.ts
+#EXTINF:0,#EXTINF:-1,FR
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1696.ts
+#EXTINF:0,#EXTINF:-1,FR
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1698.ts
+#EXTINF:0,#EXTINF:-1,FR
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1697.ts
+#EXTINF:0,#EXTINF:-1,C Star
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1703.ts
+#EXTINF:0,#EXTINF:-1,FR
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1700.ts
+#EXTINF:0,#EXTINF:-1,FR
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1699.ts
+#EXTINF:0,#EXTINF:-1,FR
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1331.ts
+#EXTINF:0,#EXTINF:-1,FR
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1320.ts
+#EXTINF:0,#EXTINF:-1,FR_Chasse_et_Peche
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1318.ts
+#EXTINF:0,#EXTINF:-1,Ushuaia
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/133.ts
+#EXTINF:0,#EXTINF:-1,FR
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1295.ts
+#EXTINF:0,#EXTINF:-1,FR
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1298.ts
+#EXTINF:0,#EXTINF:-1,FR
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1299.ts
+#EXTINF:0,#EXTINF:-1,FR
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1296.ts
+#EXTINF:0,#EXTINF:-1,FR
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1297.ts
+#EXTINF:0,#EXTINF:-1,FR
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1321.ts
+#EXTINF:0,#EXTINF:-1,Discovery Showcase HD
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1007.ts
+#EXTINF:0,#EXTINF:-1,FR_Discovery_HD
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1316.ts
+#EXTINF:0,#EXTINF:-1,MTV Rocks
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1332.ts
+#EXTINF:0,#EXTINF:-1,MTV Dance
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1326.ts
+#EXTINF:0,#EXTINF:-1,FR_NRJ_TV
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1314.ts
+#EXTINF:0,#EXTINF:-1,M6 Music
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/807.ts
+#EXTINF:0,#EXTINF:-1,Canal  Sport HD
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/729.ts
+#EXTINF:0,#EXTINF:-1,FR
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1338.ts
+#EXTINF:0,#EXTINF:-1,FR
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1339.ts
+#EXTINF:0,#EXTINF:-1,FR
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1340.ts
+#EXTINF:0,#EXTINF:-1,FR
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1341.ts
+#EXTINF:0,
+#EXTM3U
+#EXTINF:0,#EXTINF:-1,====KANALA PRIVATE===
+#EXTM3U
+#EXTINF:0,#
+#EXTINF:-1,xxx student
+#EXTINF:0,http://iptv.nbrz.ru:9705/movie/TlEqlvidUl/EWNiMP0sm5/1537.mkv
+#EXTINF:-1,xxx italian2
+#EXTINF:0,http://iptv.nbrz.ru:9705/movie/TlEqlvidUl/EWNiMP0sm5/1535.mkv
+#EXTINF:-1,xxx italian
+#EXTINF:0,http://iptv.nbrz.ru:9705/movie/TlEqlvidUl/EWNiMP0sm5/1536.mkv
+#EXTINF:-1,xxx babes
+#EXTINF:0,http://iptv.nbrz.ru:9705/movie/TlEqlvidUl/EWNiMP0sm5/1538.mkv
+#EXTINF:-1,Channel x 1
+#EXTINF:0,http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/144.ts
+#EXTINF:-1,Channel x 2
+#EXTINF:0,http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1062.ts
+#EXTINF:-1,Channel x 3
+#EXTINF:0,http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1061.ts
+#EXTINF:-1,Hot Club
+#EXTINF:0,http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/883.ts
+#EXTINF:-1,Dorcel
+#EXTINF:0,http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/859.ts
+#EXTINF:-1,Hustler HD
+#EXTINF:0,http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/67.ts
+#EXTINF:-1,Private xxx
+#EXTINF:0,http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/741.ts
+#EXTINF:-1,PASSIE XXX/Redligh
+#EXTINF:0,http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/198.ts
+
+#EXTINF:-!,===FILMA SHQIP===
+#EXTM3U
+#EXTINF:0,
+http://iptv.nbrz.ru:9705/live/TlEqlvidUl/EWNiMP0sm5/1370.ts
+#EXTINF:0,#EXTINF:-1,Zonja Nga Qyteti
+http://iptv.nbrz.ru:9705/movie/TlEqlvidUl/EWNiMP0sm5/1715.mkv
+#EXTINF:0,#EXTINF:-1,Shrek 1
+http://iptv.nbrz.ru:9705/movie/TlEqlvidUl/EWNiMP0sm5/1718.mkv
+#EXTINF:0,#EXTINF:-1,Per Pushime Ne Rome - Komedi
+http://iptv.nbrz.ru:9705/movie/TlEqlvidUl/EWNiMP0sm5/1717.mkv
+#EXTINF:0,#EXTINF:-1,Pallati 176
+http://iptv.nbrz.ru:9705/movie/TlEqlvidUl/EWNiMP0sm5/1720.mkv
+#EXTINF:0,#EXTINF:-1,Milingona
+http://iptv.nbrz.ru:9705/movie/TlEqlvidUl/EWNiMP0sm5/1714.mkv
+#EXTINF:0,#EXTINF:-1,Epoka e Akullnajave 3
+http://iptv.nbrz.ru:9705/movie/TlEqlvidUl/EWNiMP0sm5/1713.mkv
+#EXTINF:0,#EXTINF:-1,Epoka e Akullnajave 2
+http://iptv.nbrz.ru:9705/movie/TlEqlvidUl/EWNiMP0sm5/1712.mkv
+#EXTINF:0,#EXTINF:-1,Epoka e Akullnajave 1
+http://iptv.nbrz.ru:9705/movie/TlEqlvidUl/EWNiMP0sm5/1711.mkv
+#EXTINF:0,#EXTINF:-1,I ALKOLIZUAR
+http://iptv.nbrz.ru:9705/movie/TlEqlvidUl/EWNiMP0sm5/1710.mkv
+#EXTINF:0,#EXTINF:-1,Perfect Strangers (2016) | Drame, Komedi | Viti
+http://iptv.nbrz.ru:9705/movie/TlEqlvidUl/EWNiMP0sm5/1709.mkv
+#EXTINF:0,#EXTINF:-1,Good Kill
+http://iptv.nbrz.ru:9705/movie/TlEqlvidUl/EWNiMP0sm5/1633.mkv
+#EXTINF:0,#EXTINF:-1,Free State of Jones (2016) | Aksion, Biografi, Drame | Viti
+http://iptv.nbrz.ru:9705/movie/TlEqlvidUl/EWNiMP0sm5/1675.mkv
+#EXTINF:0,#EXTINF:-1,District 9 | Aksion, Fantashkence, Thriller | Viti
+http://iptv.nbrz.ru:9705/movie/TlEqlvidUl/EWNiMP0sm5/1672.mkv
+#EXTINF:0,#EXTINF:-1,Desierto (2015) | Drame, Thriller | Viti
+http://iptv.nbrz.ru:9705/movie/TlEqlvidUl/EWNiMP0sm5/1674.mkv
+#EXTINF:0,#EXTINF:-1,Dead Man Down | Aksion, Krim, Drame | Viti
+http://iptv.nbrz.ru:9705/movie/TlEqlvidUl/EWNiMP0sm5/1671.mkv
+#EXTINF:0,#EXTINF:-1,Nerve (2016) | Aventure, Krim, Thriller | Viti
+http://iptv.nbrz.ru:9705/movie/TlEqlvidUl/EWNiMP0sm5/1673.mkv
+#EXTINF:0,#EXTINF:-1,Franny
+http://iptv.nbrz.ru:9705/movie/TlEqlvidUl/EWNiMP0sm5/1635.mkv
+#EXTINF:0,#EXTINF:-1,Budhia Singh
+http://iptv.nbrz.ru:9705/movie/TlEqlvidUl/EWNiMP0sm5/1632.mkv
+#EXTINF:0,#EXTINF:-1,Brooklin
+http://iptv.nbrz.ru:9705/movie/TlEqlvidUl/EWNiMP0sm5/1637.mkv
+#EXTINF:0,#EXTINF:-1,Batman v Superman
+http://iptv.nbrz.ru:9705/movie/TlEqlvidUl/EWNiMP0sm5/1634.mkv
+#EXTINF:0,#EXTINF:-1,Viking Legacy (2016) | Aksion, Aventure | Viti
+http://iptv.nbrz.ru:9705/movie/TlEqlvidUl/EWNiMP0sm5/1631.mkv
+#EXTINF:0,#EXTINF:-1,Sacrifice (2016) | Thriller | Viti
+http://iptv.nbrz.ru:9705/movie/TlEqlvidUl/EWNiMP0sm5/1638.mkv
+#EXTINF:0,#EXTINF:-1,Remember
+http://iptv.nbrz.ru:9705/movie/TlEqlvidUl/EWNiMP0sm5/1636.mkv
+#EXTINF:0,#EXTINF:-1,Don’t Breathe (2016) | Horror, Krim, Thriller | Viti
+http://iptv.nbrz.ru:9705/movie/TlEqlvidUl/EWNiMP0sm5/1677.mkv
+#EXTINF:0,#EXTINF:-1,Captain Fantastic (2016) | Komedi, Drame, Romance | Viti
+http://iptv.nbrz.ru:9705/movie/TlEqlvidUl/EWNiMP0sm5/1676.mkv
+#EXTINF:0,#EXTINF:-1,Gotfather (Der Pate)
+http://iptv.nbrz.ru:9705/movie/TlEqlvidUl/EWNiMP0sm5/1600.mkv
+#EXTINF:0,#EXTINF:-1,Gotfather (Der Pate) 2
+http://iptv.nbrz.ru:9705/movie/TlEqlvidUl/EWNiMP0sm5/1601.mkv
+#EXTINF:0,#EXTINF:-1,Summer of 8 (2016) | Drame, Komedi, Romance | Viti
+http://iptv.nbrz.ru:9705/movie/TlEqlvidUl/EWNiMP0sm5/1599.mkv
+#EXTINF:0,#EXTINF:-1,Rampage
+http://iptv.nbrz.ru:9705/movie/TlEqlvidUl/EWNiMP0sm5/1602.mkv
+#EXTINF:0,#EXTINF:-1,Revenant 2016 (Dublim Gjermanisht)
+http://iptv.nbrz.ru:9705/movie/TlEqlvidUl/EWNiMP0sm5/1399.mkv
+#EXTINF:0,#EXTINF:-1,Vae33
+http://iptv.nbrz.ru:9705/movie/TlEqlvidUl/EWNiMP0sm5/1641.mkv
+#EXTINF:0,#EXTINF:-1,The SpongeBob Movie
+http://iptv.nbrz.ru:9705/movie/TlEqlvidUl/EWNiMP0sm5/1646.mkv
+#EXTINF:0,#EXTINF:-1,The Secret Life of Pets
+http://iptv.nbrz.ru:9705/movie/TlEqlvidUl/EWNiMP0sm5/1652.mkv
+#EXTINF:0,#EXTINF:-1,The Purge Election Year
+http://iptv.nbrz.ru:9705/movie/TlEqlvidUl/EWNiMP0sm5/1666.mkv
+#EXTINF:0,#EXTINF:-1,The Jungle Book
+http://iptv.nbrz.ru:9705/movie/TlEqlvidUl/EWNiMP0sm5/1668.mkv
+#EXTINF:0,#EXTINF:-1,The Invoking 2
+http://iptv.nbrz.ru:9705/movie/TlEqlvidUl/EWNiMP0sm5/1665.mkv
+#EXTINF:0,#EXTINF:-1,The Good Dinosaur
+http://iptv.nbrz.ru:9705/movie/TlEqlvidUl/EWNiMP0sm5/1647.mkv
+#EXTINF:0,#EXTINF:-1,The BFG
+http://iptv.nbrz.ru:9705/movie/TlEqlvidUl/EWNiMP0sm5/1664.mkv
+#EXTINF:0,#EXTINF:-1,Teenage Mutant Ninja Turtles
+http://iptv.nbrz.ru:9705/movie/TlEqlvidUl/EWNiMP0sm5/1653.mkv
+#EXTINF:0,#EXTINF:-1,Star Trek Beyond
+http://iptv.nbrz.ru:9705/movie/TlEqlvidUl/EWNiMP0sm5/1648.mkv
+#EXTINF:0,#EXTINF:-1,Selma
+http://iptv.nbrz.ru:9705/movie/TlEqlvidUl/EWNiMP0sm5/1645.mkv
+#EXTINF:0,#EXTINF:-1,Now You See Me 2
+http://iptv.nbrz.ru:9705/movie/TlEqlvidUl/EWNiMP0sm5/1642.mkv
+#EXTINF:0,#EXTINF:-1,Neighbors 2
+http://iptv.nbrz.ru:9705/movie/TlEqlvidUl/EWNiMP0sm5/1655.mkv
+#EXTINF:0,#EXTINF:-1,Money Monster
+http://iptv.nbrz.ru:9705/movie/TlEqlvidUl/EWNiMP0sm5/1649.mkv
+#EXTINF:0,#EXTINF:-1,Meet the Blacks
+http://iptv.nbrz.ru:9705/movie/TlEqlvidUl/EWNiMP0sm5/1650.mkv
+#EXTINF:0,#EXTINF:-1,Me Before You
+http://iptv.nbrz.ru:9705/movie/TlEqlvidUl/EWNiMP0sm5/1670.mkv
+#EXTINF:0,#EXTINF:-1,Marauders
+http://iptv.nbrz.ru:9705/movie/TlEqlvidUl/EWNiMP0sm5/1660.mkv
+#EXTINF:0,#EXTINF:-1,Jason Bourne
+http://iptv.nbrz.ru:9705/movie/TlEqlvidUl/EWNiMP0sm5/1644.mkv
+#EXTINF:0,#EXTINF:-1,Hardcore Henry
+http://iptv.nbrz.ru:9705/movie/TlEqlvidUl/EWNiMP0sm5/1667.mkv
+#EXTINF:0,#EXTINF:-1,Ghostbusters
+http://iptv.nbrz.ru:9705/movie/TlEqlvidUl/EWNiMP0sm5/1651.mkv
+#EXTINF:0,#EXTINF:-1,Finding Dory
+http://iptv.nbrz.ru:9705/movie/TlEqlvidUl/EWNiMP0sm5/1662.mkv
+#EXTINF:0,#EXTINF:-1,Dirty 30 (2016) | Komedi | Viti
+http://iptv.nbrz.ru:9705/movie/TlEqlvidUl/EWNiMP0sm5/1639.mkv
+#EXTINF:0,#EXTINF:-1,Central Intelligence
+http://iptv.nbrz.ru:9705/movie/TlEqlvidUl/EWNiMP0sm5/1663.mkv
+#EXTINF:0,#EXTINF:-1,Carnage Park
+http://iptv.nbrz.ru:9705/movie/TlEqlvidUl/EWNiMP0sm5/1658.mkv
+#EXTINF:0,#EXTINF:-1,Captain America
+http://iptv.nbrz.ru:9705/movie/TlEqlvidUl/EWNiMP0sm5/1654.mkv
+#EXTINF:0,#EXTINF:-1,Bad Moms
+http://iptv.nbrz.ru:9705/movie/TlEqlvidUl/EWNiMP0sm5/1643.mkv
+#EXTINF:0,#EXTINF:-1,Antibirth (2016) | Horror | Viti
+http://iptv.nbrz.ru:9705/movie/TlEqlvidUl/EWNiMP0sm5/1640.mkv
+#EXTINF:0,#EXTINF:-1,Alice Through the Looking Glass
+http://iptv.nbrz.ru:9705/movie/TlEqlvidUl/EWNiMP0sm5/1657.mkv
+#EXTINF:0,#EXTINF:-1,Amerika UCK (Film Shqip)
+http://iptv.nbrz.ru:9705/movie/TlEqlvidUl/EWNiMP0sm5/1400.mkv
+#EXTINF:0,#EXTINF:-1,The Darkness (2016)
+http://iptv.nbrz.ru:9705/movie/TlEqlvidUl/EWNiMP0sm5/1461.mkv
+#EXTINF:0,#EXTINF:-1,The Neighbor (2016) | Horror, Krim, Thriller | Viti
+http://iptv.nbrz.ru:9705/movie/TlEqlvidUl/EWNiMP0sm5/1607.mkv
+#EXTINF:0,#EXTINF:-1,Swiss Army Man (2016) | Aventure, Komedi, Drama | Viti
+http://iptv.nbrz.ru:9705/movie/TlEqlvidUl/EWNiMP0sm5/1609.mkv
+#EXTINF:0,#EXTINF:-1,Cold War II (2016) | Aksion, Drame, Krim | Viti
+http://iptv.nbrz.ru:9705/movie/TlEqlvidUl/EWNiMP0sm5/1606.mkv
+#EXTINF:0,#EXTINF:-1,Alice Through the Looking Glass (2016) | Aventure, Familjar, Fantazi | Viti
+http://iptv.nbrz.ru:9705/movie/TlEqlvidUl/EWNiMP0sm5/1608.mkv
+#EXTINF:0,#EXTINF:-1,Sundown (2016)
+http://iptv.nbrz.ru:9705/movie/TlEqlvidUl/EWNiMP0sm5/1465.mkv
+#EXTINF:0,#EXTINF:-1,Sultan 2016
+http://iptv.nbrz.ru:9705/movie/TlEqlvidUl/EWNiMP0sm5/1457.mkv
+#EXTINF:0,#EXTINF:-1,Spaceman (2016) | Drame, Komedi | Viti
+http://iptv.nbrz.ru:9705/movie/TlEqlvidUl/EWNiMP0sm5/1505.mkv
+#EXTINF:0,#EXTINF:-1,Skiptrace (2016) | Aksion, Komedi | Viti
+http://iptv.nbrz.ru:9705/movie/TlEqlvidUl/EWNiMP0sm5/1506.mkv
+#EXTINF:0,#EXTINF:-1,I Am Not a Serial Killer (2016) | Thriller | Viti
+http://iptv.nbrz.ru:9705/movie/TlEqlvidUl/EWNiMP0sm5/1504.mkv
+#EXTINF:0,#EXTINF:-1,Hwayi
+http://iptv.nbrz.ru:9705/movie/TlEqlvidUl/EWNiMP0sm5/1503.mkv
+#EXTINF:0,#EXTINF:-1,Genius (2016) | Biografi, Drame | Viti
+http://iptv.nbrz.ru:9705/movie/TlEqlvidUl/EWNiMP0sm5/1507.mkv
+#EXTINF:0,#EXTINF:-1,Sundown (2016) | Aksion, Romance | Viti
+http://iptv.nbrz.ru:9705/movie/TlEqlvidUl/EWNiMP0sm5/1508.mkv
+#EXTINF:0,#EXTINF:-1,Sicario (2015)
+http://iptv.nbrz.ru:9705/movie/TlEqlvidUl/EWNiMP0sm5/1402.mkv
+#EXTINF:0,#EXTINF:-1,The Mobfathers (2016) | Komedi, Krim | Viti
+http://iptv.nbrz.ru:9705/movie/TlEqlvidUl/EWNiMP0sm5/1473.mkv
+#EXTINF:0,#EXTINF:-1,The Jungle Book (2016) | Aventure, Drame, Familjar | Viti
+http://iptv.nbrz.ru:9705/movie/TlEqlvidUl/EWNiMP0sm5/1474.mkv
+#EXTINF:0,#EXTINF:-1,Jeta e Eger 2016
+http://iptv.nbrz.ru:9705/movie/TlEqlvidUl/EWNiMP0sm5/1467.mkv
+#EXTINF:0,#EXTINF:-1,Inside Men (2015) | Drame, Krim, Thriller | Viti
+http://iptv.nbrz.ru:9705/movie/TlEqlvidUl/EWNiMP0sm5/1472.mkv
+#EXTINF:0,#EXTINF:-1,Central Intelligence (2016) | Aksion, Krim, Komedi | Viti
+http://iptv.nbrz.ru:9705/movie/TlEqlvidUl/EWNiMP0sm5/1475.mkv
+#EXTINF:0,#EXTINF:-1,C0n-2 2016
+http://iptv.nbrz.ru:9705/movie/TlEqlvidUl/EWNiMP0sm5/1468.mkv
+#EXTINF:0,#EXTINF:-1,The Wrath of Vajra | Aksion, Fantazir | Viti
+http://iptv.nbrz.ru:9705/movie/TlEqlvidUl/EWNiMP0sm5/1478.mkv
+#EXTINF:0,#EXTINF:-1,The Angry Birds Movie (2016) | Aksion, Animuar, Komedi | Viti
+http://iptv.nbrz.ru:9705/movie/TlEqlvidUl/EWNiMP0sm5/1481.mkv
+#EXTINF:0,#EXTINF:-1,X-Men
+http://iptv.nbrz.ru:9705/movie/TlEqlvidUl/EWNiMP0sm5/1570.mkv
+#EXTINF:0,#EXTINF:-1,Transpecos (2016) | Thriller | Viti
+http://iptv.nbrz.ru:9705/movie/TlEqlvidUl/EWNiMP0sm5/1597.mkv
+#EXTINF:0,#EXTINF:-1,Train to Busan (2016) | Aksion, Horror, Thriller | Viti
+http://iptv.nbrz.ru:9705/movie/TlEqlvidUl/EWNiMP0sm5/1596.mkv
+#EXTINF:0,#EXTINF:-1,The Darkness (2016) | Horror, Thriller | Viti
+http://iptv.nbrz.ru:9705/movie/TlEqlvidUl/EWNiMP0sm5/1598.mkv
+#EXTINF:0,#EXTINF:-1,Killing Salazar (2016) | Aksion | Viti
+http://iptv.nbrz.ru:9705/movie/TlEqlvidUl/EWNiMP0sm5/1595.mkv
+#EXTINF:0,#EXTINF:-1,Guardian of the Moon | Animuar, Fantazi | Viti
+http://iptv.nbrz.ru:9705/movie/TlEqlvidUl/EWNiMP0sm5/1539.mkv
+#EXTINF:0,#EXTINF:-1,Southbound (2015) | Fantazi, Horror, Thriller | Viti
+http://iptv.nbrz.ru:9705/movie/TlEqlvidUl/EWNiMP0sm5/1477.mkv
+#EXTINF:0,#EXTINF:-1,Ratchet and Clank (2016) | Aksion, Animuar, Aventure | Viti
+http://iptv.nbrz.ru:9705/movie/TlEqlvidUl/EWNiMP0sm5/1476.mkv
+#EXTINF:0,#EXTINF:-1,Phobia (2016) | Drame, Hindi, Mister, Thriller | Viti
+http://iptv.nbrz.ru:9705/movie/TlEqlvidUl/EWNiMP0sm5/1479.mkv
+#EXTINF:0,#EXTINF:-1,Batman
+http://iptv.nbrz.ru:9705/movie/TlEqlvidUl/EWNiMP0sm5/1480.mkv
+#EXTINF:0,#EXTINF:-1,Maximum Ride (2016)
+http://iptv.nbrz.ru:9705/movie/TlEqlvidUl/EWNiMP0sm5/1463.mkv
+#EXTINF:0,#EXTINF:-1,Masaan 2015 (Hindi)
+http://iptv.nbrz.ru:9705/movie/TlEqlvidUl/EWNiMP0sm5/1401.mkv
+#EXTINF:0,#EXTINF:-1,In the Name of Ben Hur (2016)
+http://iptv.nbrz.ru:9705/movie/TlEqlvidUl/EWNiMP0sm5/1459.mkv
+#EXTINF:0,#EXTINF:-1,Edge of Winter (2016)
+http://iptv.nbrz.ru:9705/movie/TlEqlvidUl/EWNiMP0sm5/1460.mkv
+#EXTINF:0,#EXTINF:-1,Viral (2016) | Drame, Horror, Fantashkence | Viti
+http://iptv.nbrz.ru:9705/movie/TlEqlvidUl/EWNiMP0sm5/1516.mkv
+#EXTINF:0,#EXTINF:-1,Trivisa (2016) | Krim, Thriller | Viti
+http://iptv.nbrz.ru:9705/movie/TlEqlvidUl/EWNiMP0sm5/1512.mkv
+#EXTINF:0,#EXTINF:-1,The Call Up (2016) | Aksion, Fantashkence | Viti
+http://iptv.nbrz.ru:9705/movie/TlEqlvidUl/EWNiMP0sm5/1515.mkv
+#EXTINF:0,#EXTINF:-1,Lie with Me (2005) (+18) | Drame, Erotik, Romance | Viti
+http://iptv.nbrz.ru:9705/movie/TlEqlvidUl/EWNiMP0sm5/1511.mkv
+#EXTINF:0,#EXTINF:-1,Italian Race (2016) | Drame, Sport | Viti
+http://iptv.nbrz.ru:9705/movie/TlEqlvidUl/EWNiMP0sm5/1509.mkv
+#EXTINF:0,#EXTINF:-1,Edge of Winter (2016) | Drame, Thriller | Viti
+http://iptv.nbrz.ru:9705/movie/TlEqlvidUl/EWNiMP0sm5/1514.mkv
+#EXTINF:0,#EXTINF:-1,All Girls Weekend (2016) | Aksion, Aventure, Horror | Viti
+http://iptv.nbrz.ru:9705/movie/TlEqlvidUl/EWNiMP0sm5/1513.mkv
+#EXTINF:0,#EXTINF:-1,A Violent Prosecutor (2016) | Krim | Viti
+http://iptv.nbrz.ru:9705/movie/TlEqlvidUl/EWNiMP0sm5/1510.mkv
+#EXTINF:0,#EXTINF:-1,Bastille Day (2016)
+http://iptv.nbrz.ru:9705/movie/TlEqlvidUl/EWNiMP0sm5/1464.mkv
+#EXTINF:0,#EXTINF:-1,Am Not a Serial Killer (2016
+http://iptv.nbrz.ru:9705/movie/TlEqlvidUl/EWNiMP0sm5/1462.mkv
+#EXTINF:0,#EXTINF:-1,mkn-rsfpov15_scene6
+http://iptv.nbrz.ru:9705/movie/TlEqlvidUl/EWNiMP0sm5/1534.mkv
+
+
+
